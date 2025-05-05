@@ -1,0 +1,94 @@
+{
+    "version": "2.0",
+    "last_updated": "2025-05-03",
+    "recipes": [
+        {
+            "id": "apple-cake-001",
+            "title": "Apple Cake",
+            "category": "dessert",
+            "prep_time": "medium",
+            "difficulty": "easy",
+            "dietary": ["contains nuts"],
+            "summary": "A moist apple cake with cinnamon and chopped nuts.",
+            "ingredients": [
+                "3 eggs",
+                "1 3/4 cups sugar",
+                "1 cup oil",
+                "2 teaspoons vanilla",
+                "2 cups flour",
+                "1 teaspoon baking soda",
+                "1 1/2 teaspoons cinnamon",
+                "1/2 cup chopped nuts",
+                "1 teaspoon salt",
+                "5 Granny Smith apples"
+            ],
+            "steps": [
+                "Preheat the oven to 350°F (175°C).",
+                "Mix eggs, sugar, and oil together.",
+                "Add vanilla, flour, baking soda, cinnamon, salt, and nuts.",
+                "Stir in chopped apples.",
+                "Pour into a greased baking pan and bake for 45 minutes."
+            ],
+            "keywords": ["apple", "cake", "dessert", "baking"]
+        },
+        {
+            "id": "mocha-morning-shake-002",
+            "title": "Morning Mocha Shake",
+            "category": "breakfast",
+            "prep_time": "short",
+            "difficulty": "easy",
+            "dietary": ["gluten-free"],
+            "summary": "A rich and energizing breakfast shake with cacao and almonds.",
+            "ingredients": [
+                "1 packet Cleanse Shake",
+                "1 cup strong teeccino",
+                "2 tablespoons cacao powder",
+                "1 handful raw almonds",
+                "stevia to taste",
+                "1 tablespoon vanilla extract",
+                "1 tablespoon ground flax seed"
+            ],
+            "steps": [
+                "Brew 1 cup of strong teeccino and let it cool slightly.",
+                "In a blender, combine the Cleanse Shake, cooled teeccino, cacao powder, almonds, stevia, vanilla extract, and ground flax seed.",
+                "Blend until smooth.",
+                "Serve immediately."
+            ],
+            "keywords": ["breakfast", "shake", "cacao", "almond"]
+        },
+        {
+            "id": "instant-pot-chili-003",
+            "title": "Instant Pot Award Winning Chili",
+            "category": "dinner",
+            "prep_time": "long",
+            "difficulty": "moderate",
+            "dietary": ["gluten-free"],
+            "summary": "An award-winning hearty chili with ground beef, bacon, and beans.",
+            "ingredients": [
+                "1.5 pounds ground beef",
+                "6 strips bacon",
+                "1 can kidney beans",
+                "1 can pinto beans",
+                "1 can black beans",
+                "1 can fire roasted diced tomatoes",
+                "1 can tomato paste",
+                "1 large red onion",
+                "1 red bell pepper",
+                "1 jalapeño",
+                "2 cups beef stock",
+                "various spices"
+            ],
+            "steps": [
+                "Set Instant Pot to sauté mode.",
+                "Cook chopped bacon until crispy, then remove and set aside.",
+                "Add ground beef and cook until browned.",
+                "Add chopped onion, bell pepper, and jalapeño; cook until softened.",
+                "Stir in beans, tomatoes, tomato paste, and beef stock.",
+                "Add spices and cooked bacon.",
+                "Lock the lid and cook on high pressure for 20 minutes.",
+                "Release pressure, stir, and serve."
+            ],
+            "keywords": ["chili", "instant pot", "beef", "bacon"]
+        }
+    ]
+}

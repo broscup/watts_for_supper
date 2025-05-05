@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Watts for Supper?</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="manifest" href="manifest.json">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="logo">Watts for Supper?</div>
+    </nav>
+    <nav class="nav-links-bar">
+        <ul class="nav-links">
+            <li><a href="#" id="homeLink">Home</a></li>
+            <li><a href="#" id="categoriesLink">Categories</a></li>
+            <li><a href="#" id="dietaryLink">Dietary</a></li>
+            <li><a href="#" id="aboutLink">About</a></li>
+            <li><a href="#" id="allRecipesLink">All Recipes</a></li>
+        </ul>
+        <div class="search-container">
+            <button id="searchToggle">🔍</button>
+            <input type="text" id="searchInput" placeholder="Search recipes...">
+            <button id="clearSearch" style="display:none;">✖</button>
+        </div>
+    </nav>
+
+    <section id="filters">
+        <select id="categoryFilter">
+            <option value="">All Categories</option>
+        </select>
+        <select id="dietaryFilter">
+            <option value="">All Dietary Tags</option>
+        </select>
+    </section>
+
+    <main id="recipeList"></main>
+
+    <section id="allRecipesSection" style="display: none;">
+        <h2>All Recipes (A–Z)</h2>
+        <div id="alphabeticalList"></div>
+        <button id="backFromAll">Back to Home</button>
+    </section>
+
+    <script src="app.js"></script>
+</body>
+</html>
