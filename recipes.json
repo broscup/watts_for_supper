@@ -1,6 +1,6 @@
 {
-    "version": "2.0",
-    "last_updated": "2025-05-03",
+    "version": "1.0",
+    "last_updated": "2025-05-04",
     "recipes": [
         {
             "id": "apple-cake-001",
@@ -22,14 +22,14 @@
                 "1 teaspoon salt",
                 "5 Granny Smith apples"
             ],
+            "keywords": ["apple", "cake", "dessert", "baking"],
             "steps": [
-                "Preheat the oven to 350°F (175°C).",
-                "Mix eggs, sugar, and oil together.",
-                "Add vanilla, flour, baking soda, cinnamon, salt, and nuts.",
-                "Stir in chopped apples.",
-                "Pour into a greased baking pan and bake for 45 minutes."
-            ],
-            "keywords": ["apple", "cake", "dessert", "baking"]
+                "Preheat oven to 350°F (175°C).",
+                "Mix eggs, sugar, oil, and vanilla.",
+                "Combine flour, baking soda, cinnamon, and salt; add to wet ingredients.",
+                "Fold in nuts and chopped apples.",
+                "Pour into a greased pan and bake for 45-50 minutes."
+            ]
         },
         {
             "id": "mocha-morning-shake-002",
@@ -48,13 +48,12 @@
                 "1 tablespoon vanilla extract",
                 "1 tablespoon ground flax seed"
             ],
+            "keywords": ["breakfast", "shake", "cacao", "almond"],
             "steps": [
-                "Brew 1 cup of strong teeccino and let it cool slightly.",
-                "In a blender, combine the Cleanse Shake, cooled teeccino, cacao powder, almonds, stevia, vanilla extract, and ground flax seed.",
-                "Blend until smooth.",
+                "Brew the teeccino and let cool slightly.",
+                "Blend all ingredients together until smooth.",
                 "Serve immediately."
-            ],
-            "keywords": ["breakfast", "shake", "cacao", "almond"]
+            ]
         },
         {
             "id": "instant-pot-chili-003",
@@ -78,17 +77,129 @@
                 "2 cups beef stock",
                 "various spices"
             ],
+            "keywords": ["chili", "instant pot", "beef", "bacon"],
             "steps": [
-                "Set Instant Pot to sauté mode.",
-                "Cook chopped bacon until crispy, then remove and set aside.",
-                "Add ground beef and cook until browned.",
-                "Add chopped onion, bell pepper, and jalapeño; cook until softened.",
-                "Stir in beans, tomatoes, tomato paste, and beef stock.",
-                "Add spices and cooked bacon.",
-                "Lock the lid and cook on high pressure for 20 minutes.",
-                "Release pressure, stir, and serve."
+                "Cook bacon and set aside.",
+                "Sauté onion, peppers, and beef in the Instant Pot.",
+                "Add remaining ingredients and cooked bacon.",
+                "Seal and cook on manual high pressure for 20 minutes.",
+                "Quick release and serve."
+            ]
+        },
+        {
+            "id": "butternut-squash-noodles-004",
+            "title": "Butternut Squash Noodles with Winter Pesto",
+            "category": "dinner",
+            "prep_time": "medium",
+            "difficulty": "moderate",
+            "dietary": ["gluten-free", "vegetarian"],
+            "summary": "Butternut squash noodles topped with a hearty almond and greens pesto.",
+            "ingredients": [
+                "1 butternut squash",
+                "1 cup almonds",
+                "4 cups chopped greens",
+                "2 garlic cloves",
+                "1/2 cup olive oil"
             ],
-            "keywords": ["chili", "instant pot", "beef", "bacon"]
+            "keywords": ["butternut squash", "pesto", "vegetarian", "gluten-free"],
+            "steps": [
+                "Spiralize the butternut squash into noodles.",
+                "In a food processor, blend almonds, greens, garlic, and olive oil into a pesto.",
+                "Lightly sauté the squash noodles until tender.",
+                "Toss the noodles with the pesto and serve warm."
+            ]
+        },
+        {
+            "id": "black-bean-hummus-005",
+            "title": "Black Bean Hummus",
+            "category": "snack",
+            "prep_time": "short",
+            "difficulty": "easy",
+            "dietary": ["gluten-free", "vegan"],
+            "summary": "A creamy black bean hummus with tahini and lemon juice.",
+            "ingredients": [
+                "1 clove garlic",
+                "1 can black beans",
+                "2 tablespoons lemon juice",
+                "1.5 tablespoons tahini",
+                "spices"
+            ],
+            "keywords": ["hummus", "black bean", "vegan", "snack"],
+            "steps": [
+                "Combine all ingredients in a food processor.",
+                "Blend until smooth.",
+                "Adjust seasoning to taste and serve."
+            ]
+        },
+        {
+            "id": "classic-pancakes-006",
+            "title": "Classic Pancakes",
+            "category": "breakfast",
+            "prep_time": "short",
+            "difficulty": "easy",
+            "dietary": ["vegetarian"],
+            "summary": "Fluffy classic pancakes perfect for any morning.",
+            "ingredients": [
+                "1 cup flour",
+                "2 tablespoons sugar",
+                "1 tablespoon baking powder",
+                "1/2 teaspoon salt",
+                "1 egg",
+                "1 cup milk",
+                "2 tablespoons melted butter"
+            ],
+            "keywords": ["pancakes", "breakfast", "easy", "fluffy"],
+            "steps": [
+                "Whisk together flour, sugar, baking powder, and salt.",
+                "In another bowl, whisk egg, milk, and melted butter.",
+                "Combine wet and dry ingredients until just mixed.",
+                "Pour batter onto a hot griddle and cook until bubbles form, then flip and cook the other side."
+            ]
+        },
+        {
+            "id": "chicken-fajitas-007",
+            "title": "Chicken Fajitas",
+            "category": "dinner",
+            "prep_time": "medium",
+            "difficulty": "easy",
+            "dietary": ["gluten-free"],
+            "summary": "Juicy chicken fajitas with sautéed peppers and onions.",
+            "ingredients": [
+                "1 lb chicken breast, sliced",
+                "1 red bell pepper",
+                "1 yellow bell pepper",
+                "1 onion",
+                "2 tablespoons fajita seasoning",
+                "2 tablespoons olive oil"
+            ],
+            "keywords": ["chicken", "fajitas", "gluten-free", "mexican"],
+            "steps": [
+                "Toss chicken with fajita seasoning.",
+                "Sauté chicken in olive oil until cooked through.",
+                "Add sliced peppers and onions and cook until tender.",
+                "Serve with tortillas or over rice."
+            ]
+        },
+        {
+            "id": "berry-smoothie-008",
+            "title": "Berry Smoothie",
+            "category": "drinks",
+            "prep_time": "short",
+            "difficulty": "easy",
+            "dietary": ["gluten-free", "vegan"],
+            "summary": "A refreshing berry smoothie packed with antioxidants.",
+            "ingredients": [
+                "1 cup mixed berries",
+                "1 banana",
+                "1 cup almond milk",
+                "1 tablespoon chia seeds"
+            ],
+            "keywords": ["smoothie", "berries", "vegan", "drink"],
+            "steps": [
+                "Combine all ingredients in a blender.",
+                "Blend until smooth and creamy.",
+                "Pour into a glass and enjoy."
+            ]
         }
     ]
 }
