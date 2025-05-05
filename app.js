@@ -1,5 +1,7 @@
+// Updated app.js with working navigation, search, categories, about, and view recipe
+
 let recipes = [];
-let lastView = 'main'; // Tracks how the user arrived at the recipe
+let lastView = 'main';
 
 fetch('recipes.json')
     .then(response => response.json())
@@ -9,32 +11,26 @@ fetch('recipes.json')
         displayRecipes(recipes);
     });
 
+function hideAllSections() {
+    document.getElementById('recipeList').style.display = 'flex';
+    document.getElementById('allRecipesSection').style.display = 'none';
+    document.getElementById('categoriesSection').style.display = 'none';
+    document.getElementById('aboutSection').style.display = 'none';
+}
+
 function displayRecipes(displayedRecipes) {
+    hideAllSections();
     const recipeList = document.getElementById('recipeList');
-    const allRecipesSection = document.getElementById('allRecipesSection');
-    allRecipesSection.style.display = 'none';
     recipeList.innerHTML = '';
 
     displayedRecipes.forEach(recipe => {
         const recipeDiv = document.createElement('div');
         recipeDiv.className = 'recipe';
 
-        let ingredientsList = '<ul>';
-        recipe.ingredients.forEach(ingredient => {
-            ingredientsList += `<li>${ingredient}</li>`;
-        });
-        ingredientsList += '</ul>';
-
-        let stepsList = '';
-        if (recipe.steps && recipe.steps.length > 0) {
-            stepsList = '<ol>';
-            recipe.steps.forEach(step => {
-                stepsList += `<li>${step}</li>`;
-            });
-            stepsList += '</ol>';
-        } else {
-            stepsList = '<p><em>Instructions not available.</em></p>';
-        }
+        let ingredientsList = '<ul>' + recipe.ingredients.map(i => `<li>${i}</li>`).join('') + '</ul>';
+        let stepsList = recipe.steps && recipe.steps.length > 0 ?
+            '<ol>' + recipe.steps.map(step => `<li>${step}</li>`).join('') + '</ol>' :
+            '<p><em>Instructions not available.</em></p>';
 
         recipeDiv.innerHTML = `
             <h3>${recipe.title}</h3>
@@ -57,15 +53,13 @@ function displayRecipes(displayedRecipes) {
 
         recipeList.appendChild(recipeDiv);
 
-        const viewButton = recipeDiv.querySelector('.expand-button');
-        viewButton.addEventListener('click', () => {
+        recipeDiv.querySelector('.expand-button').addEventListener('click', () => {
             showSingleRecipe(recipe);
         });
     });
 }
 
 function showSingleRecipe(selectedRecipe) {
-    const recipeList = document.getElementById('recipeList');
     const recipeCards = document.querySelectorAll('.recipe');
     recipeCards.forEach(card => {
         const title = card.querySelector('h3').textContent;
@@ -75,15 +69,19 @@ function showSingleRecipe(selectedRecipe) {
             card.querySelector('.details').classList.add('show');
             card.querySelector('.expand-button').style.display = 'none';
             card.style.margin = '0 auto';
-
             card.querySelectorAll('.back-inside').forEach(backBtn => {
                 backBtn.style.display = 'inline-block';
-                backBtn.textContent = lastView === 'alphabetical' ? 'Back to All Recipes' : (lastView === 'search' ? 'Back to Results' : 'Back to All Recipes');
+                backBtn.textContent = lastView === 'alphabetical' ? 'Back to All Recipes' :
+                                     lastView === 'search' ? 'Back to Results' :
+                                     lastView === 'category' ? 'Back to Categories' :
+                                     'Back to All Recipes';
                 backBtn.onclick = () => {
                     if (lastView === 'alphabetical') {
                         generateAlphabeticalList();
                     } else if (lastView === 'search') {
                         filterRecipes();
+                    } else if (lastView === 'category') {
+                        generateCategoryList();
                     } else {
                         displayRecipes(recipes);
                     }
@@ -109,10 +107,13 @@ function populateFilters() {
     dietaryTags.forEach(tag => {
         const option = document.createElement('option');
         option.value = tag;
-        option.textContent = tag.split(' ').map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(' ');
+        option.textContent = tag.split(' ').map(word => word[0].toUpperCase() + word.slice(1)).join(' ');
         dietaryFilter.appendChild(option);
     });
 }
+// CONTINUATION of app.js
+
+// Search and filter functionality
 
 const searchInput = document.getElementById('searchInput');
 const searchToggle = document.getElementById('searchToggle');
@@ -146,18 +147,41 @@ document.getElementById('allRecipesLink').addEventListener('click', () => {
     generateAlphabeticalList();
 });
 
+document.getElementById('categoriesLink').addEventListener('click', () => {
+    lastView = 'category';
+    generateCategoryList();
+});
+
+document.getElementById('aboutLink').addEventListener('click', () => {
+    hideAllSections();
+    document.getElementById('aboutSection').style.display = 'block';
+});
+
+document.getElementById('homeLink').addEventListener('click', () => {
+    lastView = 'main';
+    filterRecipes();
+});
+
 document.getElementById('backFromAll').addEventListener('click', () => {
     lastView = 'main';
-    document.getElementById('allRecipesSection').style.display = 'none';
+    filterRecipes();
+});
+
+document.getElementById('backFromCategories').addEventListener('click', () => {
+    lastView = 'main';
+    filterRecipes();
+});
+
+document.getElementById('backFromAbout').addEventListener('click', () => {
+    lastView = 'main';
     filterRecipes();
 });
 
 function filterRecipes() {
     const searchText = searchInput.value.toLowerCase();
 
-    let filtered = recipes.filter(recipe => {
-        const searchMatch =
-            recipe.title.toLowerCase().includes(searchText) ||
+    const filtered = recipes.filter(recipe => {
+        const searchMatch = recipe.title.toLowerCase().includes(searchText) ||
             recipe.category.toLowerCase().includes(searchText) ||
             recipe.prep_time.toLowerCase().includes(searchText) ||
             recipe.difficulty.toLowerCase().includes(searchText) ||
@@ -179,6 +203,7 @@ function filterRecipes() {
 }
 
 function generateAlphabeticalList() {
+    hideAllSections();
     const alphabeticalList = document.getElementById('alphabeticalList');
     const allRecipesSection = document.getElementById('allRecipesSection');
     const recipeList = document.getElementById('recipeList');
@@ -197,9 +222,9 @@ function generateAlphabeticalList() {
     });
 
     for (const letter in grouped) {
-        const letterHeading = document.createElement('h3');
-        letterHeading.textContent = letter;
-        alphabeticalList.appendChild(letterHeading);
+        const heading = document.createElement('h3');
+        heading.textContent = letter;
+        alphabeticalList.appendChild(heading);
 
         const ul = document.createElement('ul');
         grouped[letter].forEach(recipe => {
@@ -210,8 +235,43 @@ function generateAlphabeticalList() {
                 displayRecipes([recipe]);
                 showSingleRecipe(recipe);
             });
-        ul.appendChild(li);
+            ul.appendChild(li);
         });
         alphabeticalList.appendChild(ul);
     }
+}
+
+function generateCategoryList() {
+    hideAllSections();
+    const categoryList = document.getElementById('categoryList');
+    const categoriesSection = document.getElementById('categoriesSection');
+    const recipeList = document.getElementById('recipeList');
+
+    recipeList.innerHTML = '';
+    categoriesSection.style.display = 'block';
+    categoryList.innerHTML = '';
+
+    const categories = [...new Set(recipes.map(r => r.category))].sort();
+
+    categories.forEach(category => {
+        const h3 = document.createElement('h3');
+        h3.textContent = category.charAt(0).toUpperCase() + category.slice(1);
+        categoryList.appendChild(h3);
+
+        const filtered = recipes.filter(r => r.category === category);
+        const ul = document.createElement('ul');
+
+        filtered.forEach(recipe => {
+            const li = document.createElement('li');
+            li.textContent = recipe.title;
+            li.addEventListener('click', () => {
+                categoriesSection.style.display = 'none';
+                displayRecipes([recipe]);
+                showSingleRecipe(recipe);
+            });
+            ul.appendChild(li);
+        });
+
+        categoryList.appendChild(ul);
+    });
 }

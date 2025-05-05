@@ -40,6 +40,7 @@ body {
     color: white;
     text-decoration: none;
     font-size: 1.1em;
+    cursor: pointer;
 }
 
 .search-container {
@@ -142,8 +143,8 @@ select {
     padding-left: 1.2em;
 }
 
-/* Styles for the back button */
-#backButton, #backFromAll {
+/* Back button styling */
+#backButton, #backFromAll, #backFromCategories, #backFromAbout {
     margin: 1em auto;
     display: block;
     padding: 0.5em 1em;
@@ -155,37 +156,46 @@ select {
     transition: background-color 0.2s;
 }
 
-#backButton:hover, #backFromAll:hover {
+#backButton:hover, #backFromAll:hover, #backFromCategories:hover, #backFromAbout:hover {
     background-color: #45a049;
 }
 
-/* Styles for the alphabetical list */
-#alphabeticalList {
+/* Alphabetical list styling */
+#alphabeticalList, #categoryList {
     text-align: left;
     max-width: 600px;
     margin: 0 auto;
 }
 
-#alphabeticalList h3 {
+#alphabeticalList h3, #categoryList h3 {
     border-bottom: 1px solid #ccc;
     margin-top: 1em;
 }
 
-#alphabeticalList ul {
+#alphabeticalList ul, #categoryList ul {
     list-style: none;
     padding-left: 0;
 }
 
-#alphabeticalList li {
+#alphabeticalList li, #categoryList li {
     cursor: pointer;
     padding: 0.3em 0;
     color: #4CAF50;
 }
 
-#alphabeticalList li:hover {
+#alphabeticalList li:hover, #categoryList li:hover {
     text-decoration: underline;
 }
 
+/* About section styling */
+#aboutSection {
+    max-width: 600px;
+    margin: 2em auto;
+    text-align: center;
+    padding: 1em;
+}
+
+/* Dark mode support */
 @media (prefers-color-scheme: dark) {
     body {
         background-color: #121212;
@@ -206,7 +216,11 @@ select {
     #clearSearch {
         color: #9cde9c;
     }
-    #alphabeticalList li {
+    #alphabeticalList li, #categoryList li {
         color: #9cde9c;
     }
+}
+#allRecipesSection h2,
+#categoriesSection h2 {
+    text-align: center;
 }

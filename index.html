@@ -14,10 +14,9 @@
     <nav class="nav-links-bar">
         <ul class="nav-links">
             <li><a href="#" id="homeLink">Home</a></li>
-            <li><a href="#" id="categoriesLink">Categories</a></li>
-            <li><a href="#" id="dietaryLink">Dietary</a></li>
-            <li><a href="#" id="aboutLink">About</a></li>
             <li><a href="#" id="allRecipesLink">All Recipes</a></li>
+            <li><a href="#" id="categoriesLink">By Category</a></li>
+            <li><a href="#" id="aboutLink">About</a></li>
         </ul>
         <div class="search-container">
             <button id="searchToggle">🔍</button>
@@ -41,6 +40,18 @@
         <h2>All Recipes (A–Z)</h2>
         <div id="alphabeticalList"></div>
         <button id="backFromAll">Back to Home</button>
+    </section>
+
+    <section id="categoriesSection" style="display: none;">
+        <h2>By Category</h2>
+        <div id="categoryList"></div>
+        <button id="backFromCategories">Back to Home</button>
+    </section>
+
+    <section id="aboutSection" style="display: none;">
+    <h2>About</h2>
+    <p>These recipes come from the private collection of Gary Watts. Over more than thirty years, Gary has gathered, tested, and refined each dish — drawing inspiration from family traditions, culinary travels, and a passion for creating meals that bring people together. This collection is a testament to his love of cooking and sharing food with others.</p>
+        <button id="backFromAbout">Back to Home</button>
     </section>
 
     <script src="app.js"></script>
