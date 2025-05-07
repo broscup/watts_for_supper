@@ -1,6 +1,7 @@
 {
   "recipes": [
     {
+      "note": "Recipe 1 — Creamy Broccoli Soup",
       "title": "Creamy Broccoli Soup",
       "category": "soups & salads",
       "prep_time": "medium",
@@ -24,6 +25,7 @@
       "keywords": ["broccoli", "soup", "vegetarian", "easy"]
     },
     {
+      "note": "Recipe 2 — Strawberry Spinach Salad",
       "title": "Strawberry Spinach Salad",
       "category": "soups & salads",
       "prep_time": "short",
@@ -44,6 +46,7 @@
       "keywords": ["salad", "spinach", "strawberries", "quick"]
     },
     {
+      "note": "Recipe 3 — Roasted Tomato Basil Soup",
       "title": "Roasted Tomato Basil Soup",
       "category": "soups & salads",
       "prep_time": "medium",
@@ -67,6 +70,7 @@
       "keywords": ["tomato soup", "basil", "vegetarian"]
     },
     {
+      "note": "Recipe 4 — Chickpea and Avocado Salad",
       "title": "Chickpea and Avocado Salad",
       "category": "soups & salads",
       "prep_time": "short",
@@ -89,6 +93,7 @@
       "keywords": ["chickpeas", "salad", "avocado", "vegan"]
     },
     {
+      "note": "Recipe 5 — Classic Caesar Salad",
       "title": "Classic Caesar Salad",
       "category": "soups & salads",
       "prep_time": "short",
@@ -108,6 +113,7 @@
       "keywords": ["caesar salad", "romaine", "croutons"]
     },
     {
+      "note": "Recipe 6 — Chicken Noodle Soup",
       "title": "Chicken Noodle Soup",
       "category": "soups & salads",
       "prep_time": "medium",
@@ -132,6 +138,7 @@
       "keywords": ["chicken soup", "noodles", "comfort food"]
     },
     {
+      "note": "Recipe 7 — Greek Salad",
       "title": "Greek Salad",
       "category": "soups & salads",
       "prep_time": "short",
@@ -156,6 +163,7 @@
       "keywords": ["greek salad", "feta", "mediterranean"]
     },
     {
+      "note": "Recipe 8 — Butternut Squash Soup",
       "title": "Butternut Squash Soup",
       "category": "soups & salads",
       "prep_time": "medium",
@@ -179,6 +187,7 @@
       "keywords": ["butternut squash", "soup", "fall"]
     },
     {
+      "note": "Recipe 9 — Spinach and Strawberry Smoothie",
       "title": "Spinach and Strawberry Smoothie",
       "category": "drinks",
       "prep_time": "short",
@@ -199,6 +208,7 @@
       "keywords": ["smoothie", "spinach", "strawberries", "vegan"]
     },
     {
+      "note": "Recipe 10 — Avocado Toast",
       "title": "Avocado Toast",
       "category": "breakfast",
       "prep_time": "short",
@@ -217,8 +227,9 @@
         "Season with salt, pepper, and red pepper flakes."
       ],
       "keywords": ["avocado", "toast", "breakfast"]
-    }    ,
+    },
     {
+      "note": "Recipe 11 — Blueberry Oatmeal",
       "title": "Blueberry Oatmeal",
       "category": "breakfast",
       "prep_time": "short",
@@ -239,6 +250,7 @@
       "keywords": ["oatmeal", "blueberry", "breakfast"]
     },
     {
+      "note": "Recipe 12 — Veggie Omelette",
       "title": "Veggie Omelette",
       "category": "breakfast",
       "prep_time": "short",
@@ -262,6 +274,7 @@
       "keywords": ["omelette", "vegetarian", "breakfast"]
     },
     {
+      "note": "Recipe 13 — Berry Yogurt Parfait",
       "title": "Berry Yogurt Parfait",
       "category": "breakfast",
       "prep_time": "short",
@@ -281,6 +294,7 @@
       "keywords": ["parfait", "berries", "yogurt", "breakfast"]
     },
     {
+      "note": "Recipe 14 — Grilled Chicken Breast",
       "title": "Grilled Chicken Breast",
       "category": "main dishes",
       "prep_time": "medium",
@@ -302,6 +316,7 @@
       "keywords": ["grilled chicken", "main dish", "easy"]
     },
     {
+      "note": "Recipe 15 — Vegetarian Chili",
       "title": "Vegetarian Chili",
       "category": "main dishes",
       "prep_time": "long",
@@ -327,6 +342,7 @@
       "keywords": ["vegetarian", "chili", "beans", "main dish"]
     },
     {
+      "note": "Recipe 16 — Baked Salmon with Lemon",
       "title": "Baked Salmon with Lemon",
       "category": "main dishes",
       "prep_time": "medium",
@@ -350,6 +366,7 @@
       "keywords": ["salmon", "baked", "lemon", "main dish"]
     },
     {
+      "note": "Recipe 17 — Stuffed Bell Peppers",
       "title": "Stuffed Bell Peppers",
       "category": "main dishes",
       "prep_time": "long",
@@ -372,8 +389,9 @@
         "Stuff peppers and bake for 30-35 minutes."
       ],
       "keywords": ["stuffed peppers", "main dish", "beef", "rice"]
-    }    ,
+    },
     {
+      "note": "Recipe 18 — Quinoa and Black Bean Bowl",
       "title": "Quinoa and Black Bean Bowl",
       "category": "main dishes",
       "prep_time": "medium",
@@ -397,6 +415,7 @@
       "keywords": ["quinoa", "black beans", "vegan", "bowl"]
     },
     {
+      "note": "Recipe 19 — Garlic Roasted Potatoes",
       "title": "Garlic Roasted Potatoes",
       "category": "side dishes",
       "prep_time": "medium",
@@ -418,6 +437,7 @@
       "keywords": ["potatoes", "roasted", "garlic", "side dish"]
     },
     {
+      "note": "Recipe 20 — Steamed Asparagus",
       "title": "Steamed Asparagus",
       "category": "side dishes",
       "prep_time": "short",
@@ -437,6 +457,7 @@
       "keywords": ["asparagus", "steamed", "side dish"]
     },
     {
+      "note": "Recipe 21 — Brown Rice Pilaf",
       "title": "Brown Rice Pilaf",
       "category": "side dishes",
       "prep_time": "medium",
@@ -460,6 +481,7 @@
       "keywords": ["brown rice", "pilaf", "side dish"]
     },
     {
+      "note": "Recipe 22 — Sautéed Green Beans with Almonds",
       "title": "Sautéed Green Beans with Almonds",
       "category": "side dishes",
       "prep_time": "short",
@@ -479,448 +501,2530 @@
         "Top with toasted almonds and season."
       ],
       "keywords": ["green beans", "almonds", "side dish"]
-    }  ,
-  {
-    "title": "Fruit Salad with Honey-Lime Dressing",
-    "category": "side dishes",
-    "prep_time": "short",
-    "difficulty": "easy",
-    "dietary": ["vegan", "gluten-free"],
-    "summary": "A refreshing mix of fresh fruits tossed in a honey-lime dressing.",
-    "ingredients": [
-      "2 cups strawberries, sliced",
-      "1 cup blueberries",
-      "1 cup grapes",
-      "2 kiwis, sliced",
-      "Juice of 2 limes",
-      "2 tbsp honey"
-    ],
-    "steps": [
-      "Combine fruits in a large bowl.",
-      "Mix lime juice and honey; drizzle over fruit.",
-      "Toss gently and chill before serving."
-    ],
-    "keywords": ["fruit salad", "honey", "lime", "side dish"]
-  },
-  {
-    "title": "Classic Pancakes",
-    "category": "breakfast",
-    "prep_time": "short",
-    "difficulty": "easy",
-    "dietary": [],
-    "summary": "Fluffy classic pancakes perfect for a hearty breakfast.",
-    "ingredients": [
-      "1 1/2 cups all-purpose flour",
-      "3 1/2 tsp baking powder",
-      "1 tsp salt",
-      "1 tbsp sugar",
-      "1 1/4 cups milk",
-      "1 egg",
-      "3 tbsp melted butter"
-    ],
-    "steps": [
-      "Mix dry ingredients in a bowl.",
-      "Whisk in milk, egg, and melted butter until smooth.",
-      "Cook pancakes on a greased griddle until golden brown."
-    ],
-    "keywords": ["pancakes", "breakfast", "fluffy"]
-  },
-  {
-    "title": "Spinach and Mushroom Frittata",
-    "category": "breakfast",
-    "prep_time": "medium",
-    "difficulty": "easy",
-    "dietary": ["vegetarian", "gluten-free"],
-    "summary": "A baked frittata packed with spinach, mushrooms, and cheese.",
-    "ingredients": [
-      "6 eggs",
-      "1 cup spinach",
-      "1/2 cup mushrooms, sliced",
-      "1/4 cup shredded cheese",
-      "Salt and pepper"
-    ],
-    "steps": [
-      "Preheat oven to 375°F (190°C).",
-      "Sauté mushrooms and spinach until wilted.",
-      "Beat eggs with cheese, salt, and pepper.",
-      "Combine with vegetables and bake until set."
-    ],
-    "keywords": ["frittata", "spinach", "breakfast", "vegetarian"]
-  },
-  {
-    "title": "Mango Smoothie",
-    "category": "drinks",
-    "prep_time": "short",
-    "difficulty": "easy",
-    "dietary": ["vegan", "gluten-free"],
-    "summary": "A tropical smoothie with mango, banana, and orange juice.",
-    "ingredients": [
-      "1 cup frozen mango chunks",
-      "1 banana",
-      "1 cup orange juice",
-      "1/2 cup coconut milk"
-    ],
-    "steps": [
-      "Blend all ingredients until smooth."
-    ],
-    "keywords": ["smoothie", "mango", "banana", "drink"]
-  },
-  {
-    "title": "Iced Green Tea with Mint",
-    "category": "drinks",
-    "prep_time": "short",
-    "difficulty": "easy",
-    "dietary": ["vegan", "gluten-free"],
-    "summary": "Refreshing iced green tea infused with fresh mint leaves.",
-    "ingredients": [
-      "4 cups brewed green tea, chilled",
-      "1/4 cup fresh mint leaves",
-      "1 tbsp honey (optional)",
-      "Ice cubes"
-    ],
-    "steps": [
-      "Brew green tea and chill.",
-      "Add mint leaves and honey if desired.",
-      "Serve over ice."
-    ],
-    "keywords": ["green tea", "mint", "iced tea", "drink"]
-  },
-  {
-    "title": "Lemonade",
-    "category": "drinks",
-    "prep_time": "short",
-    "difficulty": "easy",
-    "dietary": ["vegan", "gluten-free"],
-    "summary": "Classic lemonade made with fresh lemons and sugar.",
-    "ingredients": [
-      "1 cup lemon juice",
-      "1 cup sugar",
-      "5 cups cold water",
-      "Ice cubes"
-    ],
-    "steps": [
-      "Mix lemon juice and sugar until dissolved.",
-      "Add water and stir.",
-      "Serve over ice."
-    ],
-    "keywords": ["lemonade", "drink", "summer"]
-  },
-  {
-    "title": "Chocolate Chip Cookies",
-    "category": "desserts",
-    "prep_time": "medium",
-    "difficulty": "easy",
-    "dietary": [],
-    "summary": "Classic chewy chocolate chip cookies.",
-    "ingredients": [
-      "2 1/4 cups all-purpose flour",
-      "1 tsp baking soda",
-      "1 tsp salt",
-      "1 cup butter, softened",
-      "3/4 cup sugar",
-      "3/4 cup brown sugar",
-      "2 eggs",
-      "2 tsp vanilla extract",
-      "2 cups chocolate chips"
-    ],
-    "steps": [
-      "Preheat oven to 375°F (190°C).",
-      "Combine dry ingredients.",
-      "Beat butter, sugars, eggs, and vanilla.",
-      "Mix in dry ingredients and chocolate chips.",
-      "Drop by spoonfuls and bake for 9-11 minutes."
-    ],
-    "keywords": ["cookies", "chocolate chip", "dessert"]
-  }  ,
-  {
-    "title": "Vanilla Cupcakes",
-    "category": "desserts",
-    "prep_time": "medium",
-    "difficulty": "easy",
-    "dietary": [],
-    "summary": "Soft vanilla cupcakes with buttercream frosting.",
-    "ingredients": [
-      "1 1/2 cups all-purpose flour",
-      "1 1/2 tsp baking powder",
-      "1/2 tsp salt",
-      "1/2 cup butter, softened",
-      "1 cup sugar",
-      "2 eggs",
-      "2 tsp vanilla extract",
-      "1/2 cup milk"
-    ],
-    "steps": [
-      "Preheat oven to 350°F (175°C).",
-      "Mix dry ingredients.",
-      "Cream butter and sugar, then add eggs and vanilla.",
-      "Mix in dry ingredients and milk.",
-      "Pour into cupcake liners and bake for 18-20 minutes."
-    ],
-    "keywords": ["cupcakes", "vanilla", "dessert"]
-  },
-  {
-    "title": "Apple Crisp",
-    "category": "desserts",
-    "prep_time": "medium",
-    "difficulty": "easy",
-    "dietary": ["vegetarian"],
-    "summary": "Warm baked apples topped with a crunchy oat topping.",
-    "ingredients": [
-      "6 apples, peeled and sliced",
-      "1/2 cup sugar",
-      "1/2 tsp cinnamon",
-      "1 cup rolled oats",
-      "1/2 cup flour",
-      "1/2 cup brown sugar",
-      "1/2 cup butter, softened"
-    ],
-    "steps": [
-      "Preheat oven to 350°F (175°C).",
-      "Toss apples with sugar and cinnamon; place in baking dish.",
-      "Mix oats, flour, brown sugar, and butter until crumbly.",
-      "Sprinkle over apples and bake for 40-45 minutes."
-    ],
-    "keywords": ["apple crisp", "dessert", "baked"]
-  },
-  {
-    "title": "Chocolate Mousse",
-    "category": "desserts",
-    "prep_time": "medium",
-    "difficulty": "moderate",
-    "dietary": ["gluten-free"],
-    "summary": "Rich and creamy chocolate mousse topped with whipped cream.",
-    "ingredients": [
-      "6 oz semi-sweet chocolate",
-      "3 eggs, separated",
-      "1/4 cup sugar",
-      "1 cup heavy cream",
-      "1 tsp vanilla extract"
-    ],
-    "steps": [
-      "Melt chocolate and let cool slightly.",
-      "Beat egg yolks with sugar and vanilla.",
-      "Fold in melted chocolate.",
-      "Whip cream and fold in.",
-      "Beat egg whites until stiff and fold in gently.",
-      "Chill before serving."
-    ],
-    "keywords": ["chocolate mousse", "dessert", "creamy"]
-  },
-  {
-    "title": "Fruit Tart",
-    "category": "desserts",
-    "prep_time": "long",
-    "difficulty": "moderate",
-    "dietary": [],
-    "summary": "A crisp tart shell filled with pastry cream and topped with fresh fruit.",
-    "ingredients": [
-      "1 prepared tart shell",
-      "2 cups pastry cream",
-      "Assorted fresh fruit (berries, kiwi, etc.)"
-    ],
-    "steps": [
-      "Fill tart shell with pastry cream.",
-      "Arrange fresh fruit on top.",
-      "Chill before serving."
-    ],
-    "keywords": ["fruit tart", "dessert", "pastry"]
-  },
-  {
-    "title": "Classic Brownies",
-    "category": "desserts",
-    "prep_time": "medium",
-    "difficulty": "easy",
-    "dietary": [],
-    "summary": "Fudgy chocolate brownies with a rich cocoa flavor.",
-    "ingredients": [
-      "1/2 cup butter, melted",
-      "1 cup sugar",
-      "2 eggs",
-      "1 tsp vanilla extract",
-      "1/3 cup cocoa powder",
-      "1/2 cup flour",
-      "1/4 tsp salt",
-      "1/4 tsp baking powder"
-    ],
-    "steps": [
-      "Preheat oven to 350°F (175°C).",
-      "Mix butter, sugar, eggs, and vanilla.",
-      "Stir in cocoa, flour, salt, and baking powder.",
-      "Pour into a greased pan and bake for 20-25 minutes."
-    ],
-    "keywords": ["brownies", "chocolate", "dessert"]
-  },
-  {
-    "title": "Fruit Popsicles",
-    "category": "desserts",
-    "prep_time": "short (plus freezing time)",
-    "difficulty": "easy",
-    "dietary": ["vegan", "gluten-free"],
-    "summary": "Simple homemade fruit popsicles made with blended fruit.",
-    "ingredients": [
-      "2 cups mixed fruit (berries, mango, etc.)",
-      "1 cup fruit juice or water",
-      "1 tbsp honey (optional)"
-    ],
-    "steps": [
-      "Blend fruit with juice or water and honey if using.",
-      "Pour into popsicle molds and freeze until solid."
-    ],
-    "keywords": ["popsicles", "fruit", "dessert", "vegan"]
-  }  ,
-  {
-    "title": "Peach Cobbler",
-    "category": "desserts",
-    "prep_time": "medium",
-    "difficulty": "easy",
-    "dietary": [],
-    "summary": "Sweet peaches baked with a fluffy biscuit topping.",
-    "ingredients": [
-      "4 cups sliced peaches",
-      "1/2 cup sugar",
-      "1 cup all-purpose flour",
-      "1 tbsp baking powder",
-      "1/2 tsp salt",
-      "1/2 cup milk",
-      "1/4 cup butter, melted"
-    ],
-    "steps": [
-      "Preheat oven to 375°F (190°C).",
-      "Place peaches in a baking dish and sprinkle with sugar.",
-      "Mix flour, baking powder, salt, milk, and butter.",
-      "Drop batter over peaches and bake for 30-35 minutes."
-    ],
-    "keywords": ["peach cobbler", "dessert", "baked"]
-  },
-  {
-    "title": "Fruit and Yogurt Smoothie",
-    "category": "drinks",
-    "prep_time": "short",
-    "difficulty": "easy",
-    "dietary": ["gluten-free"],
-    "summary": "A creamy smoothie with mixed fruit and yogurt.",
-    "ingredients": [
-      "1 cup mixed fruit",
-      "1/2 cup Greek yogurt",
-      "1/2 cup orange juice",
-      "1 tbsp honey (optional)"
-    ],
-    "steps": [
-      "Blend all ingredients until smooth."
-    ],
-    "keywords": ["smoothie", "yogurt", "fruit", "drink"]
-  },
-  {
-    "title": "Herb Roasted Chicken",
-    "category": "main dishes",
-    "prep_time": "long",
-    "difficulty": "moderate",
-    "dietary": ["gluten-free"],
-    "summary": "Whole chicken roasted with fresh herbs and garlic.",
-    "ingredients": [
-      "1 whole chicken",
-      "3 tbsp olive oil",
-      "4 cloves garlic, minced",
-      "Fresh rosemary and thyme",
-      "Salt and pepper"
-    ],
-    "steps": [
-      "Preheat oven to 425°F (220°C).",
-      "Rub chicken with olive oil, garlic, herbs, salt, and pepper.",
-      "Roast for 1 hour 15 minutes or until cooked through."
-    ],
-    "keywords": ["roast chicken", "herbs", "main dish"]
-  },
-  {
-    "title": "Gluten-Free Banana Bread",
-    "category": "breakfast",
-    "prep_time": "medium",
-    "difficulty": "easy",
-    "dietary": ["gluten-free"],
-    "summary": "Moist banana bread made with gluten-free flour.",
-    "ingredients": [
-      "3 ripe bananas, mashed",
-      "1/3 cup butter, melted",
-      "1/2 cup sugar",
-      "1 egg",
-      "1 tsp vanilla extract",
-      "1 1/2 cups gluten-free flour blend",
-      "1 tsp baking soda",
-      "Pinch of salt"
-    ],
-    "steps": [
-      "Preheat oven to 350°F (175°C).",
-      "Mix bananas, butter, sugar, egg, and vanilla.",
-      "Add flour, baking soda, and salt.",
-      "Pour into loaf pan and bake for 50-60 minutes."
-    ],
-    "keywords": ["banana bread", "gluten-free", "breakfast"]
-  },
-  {
-    "title": "Roasted Vegetable Medley",
-    "category": "side dishes",
-    "prep_time": "medium",
-    "difficulty": "easy",
-    "dietary": ["vegan", "gluten-free"],
-    "summary": "Seasonal vegetables roasted to perfection.",
-    "ingredients": [
-      "2 cups chopped zucchini",
-      "1 cup cherry tomatoes",
-      "1 red onion, sliced",
-      "2 tbsp olive oil",
-      "1 tsp Italian seasoning",
-      "Salt and pepper"
-    ],
-    "steps": [
-      "Preheat oven to 425°F (220°C).",
-      "Toss vegetables with olive oil and seasoning.",
-      "Roast for 20-25 minutes until tender."
-    ],
-    "keywords": ["roasted vegetables", "side dish", "vegan"]
-  },
-  {
-    "title": "Classic Hummus",
-    "category": "appetizers/snacks",
-    "prep_time": "short",
-    "difficulty": "easy",
-    "dietary": ["vegan", "gluten-free"],
-    "summary": "Creamy hummus made with chickpeas, tahini, and lemon.",
-    "ingredients": [
-      "1 can chickpeas, drained",
-      "1/4 cup tahini",
-      "2 tbsp olive oil",
-      "Juice of 1 lemon",
-      "2 cloves garlic",
-      "Salt to taste"
-    ],
-    "steps": [
-      "Blend all ingredients in a food processor until smooth."
-    ],
-    "keywords": ["hummus", "chickpeas", "snack", "vegan"]
-  },
-  {
-    "title": "Deviled Eggs",
-    "category": "appetizers/snacks",
-    "prep_time": "short",
-    "difficulty": "easy",
-    "dietary": ["gluten-free"],
-    "summary": "Classic deviled eggs with a creamy mustard filling.",
-    "ingredients": [
-      "6 hard-boiled eggs",
-      "1/4 cup mayonnaise",
-      "1 tsp yellow mustard",
-      "Salt and pepper",
-      "Paprika for garnish"
-    ],
-    "steps": [
-      "Slice eggs in half and remove yolks.",
-      "Mash yolks with mayonnaise, mustard, salt, and pepper.",
-      "Spoon filling into egg whites and garnish with paprika."
-    ],
-    "keywords": ["deviled eggs", "snack", "appetizer"]
-  }
+    },
+    {
+      "note": "Recipe 23 — Fruit Salad with Honey-Lime Dressing",
+      "title": "Fruit Salad with Honey-Lime Dressing",
+      "category": "side dishes",
+      "prep_time": "short",
+      "difficulty": "easy",
+      "dietary": ["vegan", "gluten-free"],
+      "summary": "A refreshing mix of fresh fruits tossed in a honey-lime dressing.",
+      "ingredients": [
+        "2 cups strawberries, sliced",
+        "1 cup blueberries",
+        "1 cup grapes",
+        "2 kiwis, sliced",
+        "Juice of 2 limes",
+        "2 tbsp honey"
+      ],
+      "steps": [
+        "Combine fruits in a large bowl.",
+        "Mix lime juice and honey; drizzle over fruit.",
+        "Toss gently and chill before serving."
+      ],
+      "keywords": ["fruit salad", "honey", "lime", "side dish"]
+    },
+    {
+      "note": "Recipe 24 — Classic Pancakes",
+      "title": "Classic Pancakes",
+      "category": "breakfast",
+      "prep_time": "short",
+      "difficulty": "easy",
+      "dietary": [],
+      "summary": "Fluffy classic pancakes perfect for a hearty breakfast.",
+      "ingredients": [
+        "1 1/2 cups all-purpose flour",
+        "3 1/2 tsp baking powder",
+        "1 tsp salt",
+        "1 tbsp sugar",
+        "1 1/4 cups milk",
+        "1 egg",
+        "3 tbsp melted butter"
+      ],
+      "steps": [
+        "Mix dry ingredients in a bowl.",
+        "Whisk in milk, egg, and melted butter until smooth.",
+        "Cook pancakes on a greased griddle until golden brown."
+      ],
+      "keywords": ["pancakes", "breakfast", "fluffy"]
+    },
+    {
+      "note": "Recipe 25 — Spinach and Mushroom Frittata",
+      "title": "Spinach and Mushroom Frittata",
+      "category": "breakfast",
+      "prep_time": "medium",
+      "difficulty": "easy",
+      "dietary": ["vegetarian", "gluten-free"],
+      "summary": "A baked frittata packed with spinach, mushrooms, and cheese.",
+      "ingredients": [
+        "6 eggs",
+        "1 cup spinach",
+        "1/2 cup mushrooms, sliced",
+        "1/4 cup shredded cheese",
+        "Salt and pepper"
+      ],
+      "steps": [
+        "Preheat oven to 375°F (190°C).",
+        "Sauté mushrooms and spinach until wilted.",
+        "Beat eggs with cheese, salt, and pepper.",
+        "Combine with vegetables and bake until set."
+      ],
+      "keywords": ["frittata", "spinach", "breakfast", "vegetarian"]
+    },
+    {
+      "note": "Recipe 26 — Mango Smoothie",
+      "title": "Mango Smoothie",
+      "category": "drinks",
+      "prep_time": "short",
+      "difficulty": "easy",
+      "dietary": ["vegan", "gluten-free"],
+      "summary": "A tropical smoothie with mango, banana, and orange juice.",
+      "ingredients": [
+        "1 cup frozen mango chunks",
+        "1 banana",
+        "1 cup orange juice",
+        "1/2 cup coconut milk"
+      ],
+      "steps": [
+        "Blend all ingredients until smooth."
+      ],
+      "keywords": ["smoothie", "mango", "banana", "drink"]
+    },
+    {
+      "note": "Recipe 27 — Iced Green Tea with Mint",
+      "title": "Iced Green Tea with Mint",
+      "category": "drinks",
+      "prep_time": "short",
+      "difficulty": "easy",
+      "dietary": ["vegan", "gluten-free"],
+      "summary": "Refreshing iced green tea infused with fresh mint leaves.",
+      "ingredients": [
+        "4 cups brewed green tea, chilled",
+        "1/4 cup fresh mint leaves",
+        "1 tbsp honey (optional)",
+        "Ice cubes"
+      ],
+      "steps": [
+        "Brew green tea and chill.",
+        "Add mint leaves and honey if desired.",
+        "Serve over ice."
+      ],
+      "keywords": ["green tea", "mint", "iced tea", "drink"]
+    },
+    {
+      "note": "Recipe 28 — Lemonade",
+      "title": "Lemonade",
+      "category": "drinks",
+      "prep_time": "short",
+      "difficulty": "easy",
+      "dietary": ["vegan", "gluten-free"],
+      "summary": "Classic lemonade made with fresh lemons and sugar.",
+      "ingredients": [
+        "1 cup lemon juice",
+        "1 cup sugar",
+        "5 cups cold water",
+        "Ice cubes"
+      ],
+      "steps": [
+        "Mix lemon juice and sugar until dissolved.",
+        "Add water and stir.",
+        "Serve over ice."
+      ],
+      "keywords": ["lemonade", "drink", "summer"]
+    },
+    {
+      "note": "Recipe 29 — Chocolate Chip Cookies",
+      "title": "Chocolate Chip Cookies",
+      "category": "desserts",
+      "prep_time": "medium",
+      "difficulty": "easy",
+      "dietary": [],
+      "summary": "Classic chewy chocolate chip cookies.",
+      "ingredients": [
+        "2 1/4 cups all-purpose flour",
+        "1 tsp baking soda",
+        "1 tsp salt",
+        "1 cup butter, softened",
+        "3/4 cup sugar",
+        "3/4 cup brown sugar",
+        "2 eggs",
+        "2 tsp vanilla extract",
+        "2 cups chocolate chips"
+      ],
+      "steps": [
+        "Preheat oven to 375°F (190°C).",
+        "Combine dry ingredients.",
+        "Beat butter, sugars, eggs, and vanilla.",
+        "Mix in dry ingredients and chocolate chips.",
+        "Drop by spoonfuls and bake for 9-11 minutes."
+      ],
+      "keywords": ["cookies", "chocolate chip", "dessert"]
+    },
+    {
+      "note": "Recipe 30 — Vanilla Cupcakes",
+      "title": "Vanilla Cupcakes",
+      "category": "desserts",
+      "prep_time": "medium",
+      "difficulty": "easy",
+      "dietary": [],
+      "summary": "Soft vanilla cupcakes with buttercream frosting.",
+      "ingredients": [
+        "1 1/2 cups all-purpose flour",
+        "1 1/2 tsp baking powder",
+        "1/2 tsp salt",
+        "1/2 cup butter, softened",
+        "1 cup sugar",
+        "2 eggs",
+        "2 tsp vanilla extract",
+        "1/2 cup milk"
+      ],
+      "steps": [
+        "Preheat oven to 350°F (175°C).",
+        "Mix dry ingredients.",
+        "Cream butter and sugar, then add eggs and vanilla.",
+        "Mix in dry ingredients and milk.",
+        "Pour into cupcake liners and bake for 18-20 minutes."
+      ],
+      "keywords": ["cupcakes", "vanilla", "dessert"]
+    },
+    {
+      "note": "Recipe 31 — Apple Crisp",
+      "title": "Apple Crisp",
+      "category": "desserts",
+      "prep_time": "medium",
+      "difficulty": "easy",
+      "dietary": ["vegetarian"],
+      "summary": "Warm baked apples topped with a crunchy oat topping.",
+      "ingredients": [
+        "6 apples, peeled and sliced",
+        "1/2 cup sugar",
+        "1/2 tsp cinnamon",
+        "1 cup rolled oats",
+        "1/2 cup flour",
+        "1/2 cup brown sugar",
+        "1/2 cup butter, softened"
+      ],
+      "steps": [
+        "Preheat oven to 350°F (175°C).",
+        "Toss apples with sugar and cinnamon; place in baking dish.",
+        "Mix oats, flour, brown sugar, and butter until crumbly.",
+        "Sprinkle over apples and bake for 40-45 minutes."
+      ],
+      "keywords": ["apple crisp", "dessert", "baked"]
+    },
+    {
+      "note": "Recipe 32 — Chocolate Mousse",
+      "title": "Chocolate Mousse",
+      "category": "desserts",
+      "prep_time": "medium",
+      "difficulty": "moderate",
+      "dietary": ["gluten-free"],
+      "summary": "Rich and creamy chocolate mousse topped with whipped cream.",
+      "ingredients": [
+        "6 oz semi-sweet chocolate",
+        "3 eggs, separated",
+        "1/4 cup sugar",
+        "1 cup heavy cream",
+        "1 tsp vanilla extract"
+      ],
+      "steps": [
+        "Melt chocolate and let cool slightly.",
+        "Beat egg yolks with sugar and vanilla.",
+        "Fold in melted chocolate.",
+        "Whip cream and fold in.",
+        "Beat egg whites until stiff and fold in gently.",
+        "Chill before serving."
+      ],
+      "keywords": ["chocolate mousse", "dessert", "creamy"]
+    },
+    {
+      "note": "Recipe 33 — Fruit Tart",
+      "title": "Fruit Tart",
+      "category": "desserts",
+      "prep_time": "long",
+      "difficulty": "moderate",
+      "dietary": [],
+      "summary": "A crisp tart shell filled with pastry cream and topped with fresh fruit.",
+      "ingredients": [
+        "1 prepared tart shell",
+        "2 cups pastry cream",
+        "Assorted fresh fruit (berries, kiwi, etc.)"
+      ],
+      "steps": [
+        "Fill tart shell with pastry cream.",
+        "Arrange fresh fruit on top.",
+        "Chill before serving."
+      ],
+      "keywords": ["fruit tart", "dessert", "pastry"]
+    },
+    {
+      "note": "Recipe 34 — Classic Brownies",
+      "title": "Classic Brownies",
+      "category": "desserts",
+      "prep_time": "medium",
+      "difficulty": "easy",
+      "dietary": [],
+      "summary": "Fudgy chocolate brownies with a rich cocoa flavor.",
+      "ingredients": [
+        "1/2 cup butter, melted",
+        "1 cup sugar",
+        "2 eggs",
+        "1 tsp vanilla extract",
+        "1/3 cup cocoa powder",
+        "1/2 cup flour",
+        "1/4 tsp salt",
+        "1/4 tsp baking powder"
+      ],
+      "steps": [
+        "Preheat oven to 350°F (175°C).",
+        "Mix butter, sugar, eggs, and vanilla.",
+        "Stir in cocoa, flour, salt, and baking powder.",
+        "Pour into a greased pan and bake for 20-25 minutes."
+      ],
+      "keywords": ["brownies", "chocolate", "dessert"]
+    },
+    {
+      "note": "Recipe 35 — Fruit Popsicles",
+      "title": "Fruit Popsicles",
+      "category": "desserts",
+      "prep_time": "short (plus freezing time)",
+      "difficulty": "easy",
+      "dietary": ["vegan", "gluten-free"],
+      "summary": "Simple homemade fruit popsicles made with blended fruit.",
+      "ingredients": [
+        "2 cups mixed fruit (berries, mango, etc.)",
+        "1 cup fruit juice or water",
+        "1 tbsp honey (optional)"
+      ],
+      "steps": [
+        "Blend fruit with juice or water and honey if using.",
+        "Pour into popsicle molds and freeze until solid."
+      ],
+      "keywords": ["popsicles", "fruit", "dessert", "vegan"]
+    }    ,
+    {
+      "note": "Recipe 36 — Peach Cobbler",
+      "title": "Peach Cobbler",
+      "category": "desserts",
+      "prep_time": "medium",
+      "difficulty": "easy",
+      "dietary": [],
+      "summary": "Sweet peaches baked with a fluffy biscuit topping.",
+      "ingredients": [
+        "4 cups sliced peaches",
+        "1/2 cup sugar",
+        "1 cup all-purpose flour",
+        "1 tbsp baking powder",
+        "1/2 tsp salt",
+        "1/2 cup milk",
+        "1/4 cup butter, melted"
+      ],
+      "steps": [
+        "Preheat oven to 375°F (190°C).",
+        "Place peaches in a baking dish and sprinkle with sugar.",
+        "Mix flour, baking powder, salt, milk, and butter.",
+        "Drop batter over peaches and bake for 30-35 minutes."
+      ],
+      "keywords": ["peach cobbler", "dessert", "baked"]
+    },
+    {
+      "note": "Recipe 37 — Fruit and Yogurt Smoothie",
+      "title": "Fruit and Yogurt Smoothie",
+      "category": "drinks",
+      "prep_time": "short",
+      "difficulty": "easy",
+      "dietary": ["gluten-free"],
+      "summary": "A creamy smoothie with mixed fruit and yogurt.",
+      "ingredients": [
+        "1 cup mixed fruit",
+        "1/2 cup Greek yogurt",
+        "1/2 cup orange juice",
+        "1 tbsp honey (optional)"
+      ],
+      "steps": [
+        "Blend all ingredients until smooth."
+      ],
+      "keywords": ["smoothie", "yogurt", "fruit", "drink"]
+    },
+    {
+      "note": "Recipe 38 — Herb Roasted Chicken",
+      "title": "Herb Roasted Chicken",
+      "category": "main dishes",
+      "prep_time": "long",
+      "difficulty": "moderate",
+      "dietary": ["gluten-free"],
+      "summary": "Whole chicken roasted with fresh herbs and garlic.",
+      "ingredients": [
+        "1 whole chicken",
+        "3 tbsp olive oil",
+        "4 cloves garlic, minced",
+        "Fresh rosemary and thyme",
+        "Salt and pepper"
+      ],
+      "steps": [
+        "Preheat oven to 425°F (220°C).",
+        "Rub chicken with olive oil, garlic, herbs, salt, and pepper.",
+        "Roast for 1 hour 15 minutes or until cooked through."
+      ],
+      "keywords": ["roast chicken", "herbs", "main dish"]
+    },
+    {
+      "note": "Recipe 39 — Gluten-Free Banana Bread",
+      "title": "Gluten-Free Banana Bread",
+      "category": "breakfast",
+      "prep_time": "medium",
+      "difficulty": "easy",
+      "dietary": ["gluten-free"],
+      "summary": "Moist banana bread made with gluten-free flour.",
+      "ingredients": [
+        "3 ripe bananas, mashed",
+        "1/3 cup butter, melted",
+        "1/2 cup sugar",
+        "1 egg",
+        "1 tsp vanilla extract",
+        "1 1/2 cups gluten-free flour blend",
+        "1 tsp baking soda",
+        "Pinch of salt"
+      ],
+      "steps": [
+        "Preheat oven to 350°F (175°C).",
+        "Mix bananas, butter, sugar, egg, and vanilla.",
+        "Add flour, baking soda, and salt.",
+        "Pour into loaf pan and bake for 50-60 minutes."
+      ],
+      "keywords": ["banana bread", "gluten-free", "breakfast"]
+    },
+    {
+      "note": "Recipe 40 — Roasted Vegetable Medley",
+      "title": "Roasted Vegetable Medley",
+      "category": "side dishes",
+      "prep_time": "medium",
+      "difficulty": "easy",
+      "dietary": ["vegan", "gluten-free"],
+      "summary": "Seasonal vegetables roasted to perfection.",
+      "ingredients": [
+        "2 cups chopped zucchini",
+        "1 cup cherry tomatoes",
+        "1 red onion, sliced",
+        "2 tbsp olive oil",
+        "1 tsp Italian seasoning",
+        "Salt and pepper"
+      ],
+      "steps": [
+        "Preheat oven to 425°F (220°C).",
+        "Toss vegetables with olive oil and seasoning.",
+        "Roast for 20-25 minutes until tender."
+      ],
+      "keywords": ["roasted vegetables", "side dish", "vegan"]
+    },
+    {
+      "note": "Recipe 41 — Classic Hummus",
+      "title": "Classic Hummus",
+      "category": "appetizers/snacks",
+      "prep_time": "short",
+      "difficulty": "easy",
+      "dietary": ["vegan", "gluten-free"],
+      "summary": "Creamy hummus made with chickpeas, tahini, and lemon.",
+      "ingredients": [
+        "1 can chickpeas, drained",
+        "1/4 cup tahini",
+        "2 tbsp olive oil",
+        "Juice of 1 lemon",
+        "2 cloves garlic",
+        "Salt to taste"
+      ],
+      "steps": [
+        "Blend all ingredients in a food processor until smooth."
+      ],
+      "keywords": ["hummus", "chickpeas", "snack", "vegan"]
+    },
+    {
+      "note": "Recipe 42 — Deviled Eggs",
+      "title": "Deviled Eggs",
+      "category": "appetizers/snacks",
+      "prep_time": "short",
+      "difficulty": "easy",
+      "dietary": ["gluten-free"],
+      "summary": "Classic deviled eggs with a creamy mustard filling.",
+      "ingredients": [
+        "6 hard-boiled eggs",
+        "1/4 cup mayonnaise",
+        "1 tsp yellow mustard",
+        "Salt and pepper",
+        "Paprika for garnish"
+      ],
+      "steps": [
+        "Slice eggs in half and remove yolks.",
+        "Mash yolks with mayonnaise, mustard, salt, and pepper.",
+        "Spoon filling into egg whites and garnish with paprika."
+      ],
+      "keywords": ["deviled eggs", "snack", "appetizer"]
+    }    ,
+    {
+      "note": "Recipe 43 — Caprese Salad",
+      "title": "Caprese Salad",
+      "category": "soups & salads",
+      "prep_time": "short",
+      "difficulty": "easy",
+      "dietary": ["vegetarian", "gluten-free"],
+      "summary": "Fresh tomatoes, mozzarella, and basil drizzled with balsamic glaze.",
+      "ingredients": [
+        "4 tomatoes, sliced",
+        "8 oz fresh mozzarella, sliced",
+        "Fresh basil leaves",
+        "2 tbsp balsamic glaze",
+        "2 tbsp olive oil",
+        "Salt and pepper"
+      ],
+      "steps": [
+        "Arrange tomato and mozzarella slices on a plate.",
+        "Tuck basil leaves between the slices.",
+        "Drizzle with olive oil and balsamic glaze.",
+        "Season with salt and pepper."
+      ],
+      "keywords": ["caprese", "salad", "mozzarella", "vegetarian"]
+    },
+    {
+      "note": "Recipe 44 — Mediterranean Quinoa Salad",
+      "title": "Mediterranean Quinoa Salad",
+      "category": "soups & salads",
+      "prep_time": "medium",
+      "difficulty": "easy",
+      "dietary": ["vegetarian", "gluten-free"],
+      "summary": "Quinoa salad with cucumbers, tomatoes, olives, and feta.",
+      "ingredients": [
+        "1 cup cooked quinoa",
+        "1 cucumber, diced",
+        "2 tomatoes, diced",
+        "1/4 cup kalamata olives",
+        "1/4 cup feta cheese, crumbled",
+        "2 tbsp olive oil",
+        "Juice of 1 lemon",
+        "Salt and pepper"
+      ],
+      "steps": [
+        "Combine quinoa, cucumber, tomatoes, olives, and feta.",
+        "Drizzle with olive oil and lemon juice.",
+        "Season with salt and pepper."
+      ],
+      "keywords": ["quinoa", "salad", "mediterranean", "vegetarian"]
+    },
+    {
+      "note": "Recipe 45 — Chicken Caesar Wrap",
+      "title": "Chicken Caesar Wrap",
+      "category": "main dishes",
+      "prep_time": "short",
+      "difficulty": "easy",
+      "dietary": [],
+      "summary": "Grilled chicken, romaine, and Caesar dressing wrapped in a tortilla.",
+      "ingredients": [
+        "2 grilled chicken breasts, sliced",
+        "2 cups chopped romaine lettuce",
+        "1/4 cup Caesar dressing",
+        "2 large flour tortillas",
+        "1/4 cup grated Parmesan cheese"
+      ],
+      "steps": [
+        "Lay out tortillas.",
+        "Top with lettuce, chicken, dressing, and Parmesan.",
+        "Wrap tightly and slice in half."
+      ],
+      "keywords": ["wrap", "chicken", "Caesar", "main dish"]
+    },
+    {
+      "note": "Recipe 46 — Spaghetti Aglio e Olio",
+      "title": "Spaghetti Aglio e Olio",
+      "category": "main dishes",
+      "prep_time": "short",
+      "difficulty": "easy",
+      "dietary": ["vegetarian"],
+      "summary": "Classic pasta with garlic, olive oil, and parsley.",
+      "ingredients": [
+        "8 oz spaghetti",
+        "4 cloves garlic, thinly sliced",
+        "1/4 cup olive oil",
+        "1/4 tsp red pepper flakes",
+        "Fresh parsley, chopped",
+        "Salt and pepper"
+      ],
+      "steps": [
+        "Cook spaghetti until al dente.",
+        "Sauté garlic in olive oil until golden.",
+        "Add red pepper flakes.",
+        "Toss cooked spaghetti with the garlic oil and parsley.",
+        "Season with salt and pepper."
+      ],
+      "keywords": ["spaghetti", "garlic", "pasta", "vegetarian"]
+    },
+    {
+      "note": "Recipe 47 — Lentil Soup",
+      "title": "Lentil Soup",
+      "category": "soups & salads",
+      "prep_time": "medium",
+      "difficulty": "easy",
+      "dietary": ["vegan", "gluten-free"],
+      "summary": "Hearty lentil soup with vegetables and spices.",
+      "ingredients": [
+        "1 cup lentils",
+        "1 onion, chopped",
+        "2 carrots, diced",
+        "2 celery stalks, diced",
+        "4 cups vegetable broth",
+        "1 tsp cumin",
+        "Salt and pepper"
+      ],
+      "steps": [
+        "Sauté onion, carrots, and celery until softened.",
+        "Add lentils, broth, and cumin.",
+        "Simmer until lentils are tender.",
+        "Season with salt and pepper."
+      ],
+      "keywords": ["lentils", "soup", "vegan", "hearty"]
+    },
+    {
+      "note": "Recipe 48 — Avocado Black Bean Tacos",
+      "title": "Avocado Black Bean Tacos",
+      "category": "main dishes",
+      "prep_time": "short",
+      "difficulty": "easy",
+      "dietary": ["vegan", "gluten-free"],
+      "summary": "Corn tortillas filled with black beans, avocado, and fresh salsa.",
+      "ingredients": [
+        "8 small corn tortillas",
+        "1 can black beans, rinsed",
+        "2 avocados, sliced",
+        "1 cup salsa",
+        "Fresh cilantro"
+      ],
+      "steps": [
+        "Warm tortillas.",
+        "Fill with black beans, avocado, and salsa.",
+        "Top with cilantro."
+      ],
+      "keywords": ["tacos", "avocado", "black beans", "vegan"]
+    },
+    {
+      "note": "Recipe 49 — Cucumber Dill Yogurt Dip",
+      "title": "Cucumber Dill Yogurt Dip",
+      "category": "appetizers/snacks",
+      "prep_time": "short",
+      "difficulty": "easy",
+      "dietary": ["vegetarian", "gluten-free"],
+      "summary": "A creamy dip with cucumber, dill, and Greek yogurt.",
+      "ingredients": [
+        "1 cup Greek yogurt",
+        "1/2 cucumber, grated",
+        "1 tbsp fresh dill, chopped",
+        "1 clove garlic, minced",
+        "Salt and pepper"
+      ],
+      "steps": [
+        "Combine all ingredients in a bowl.",
+        "Mix well and chill before serving."
+      ],
+      "keywords": ["dip", "cucumber", "yogurt", "snack"]
+    },
+    {
+      "note": "Recipe 50 — Roasted Sweet Potatoes",
+      "title": "Roasted Sweet Potatoes",
+      "category": "side dishes",
+      "prep_time": "medium",
+      "difficulty": "easy",
+      "dietary": ["vegan", "gluten-free"],
+      "summary": "Cubed sweet potatoes roasted with olive oil and spices.",
+      "ingredients": [
+        "3 large sweet potatoes, cubed",
+        "2 tbsp olive oil",
+        "1 tsp smoked paprika",
+        "Salt and pepper"
+      ],
+      "steps": [
+        "Preheat oven to 425°F (220°C).",
+        "Toss sweet potatoes with olive oil, paprika, salt, and pepper.",
+        "Roast for 25-30 minutes until tender and caramelized."
+      ],
+      "keywords": ["sweet potatoes", "roasted", "side dish"]
+    },
+    {
+      "note": "Recipe 51 — Garlic Bread",
+      "title": "Garlic Bread",
+      "category": "side dishes",
+      "prep_time": "short",
+      "difficulty": "easy",
+      "dietary": ["vegetarian"],
+      "summary": "Crispy garlic bread with parsley butter.",
+      "ingredients": [
+        "1 loaf French bread, sliced",
+        "1/2 cup butter, softened",
+        "3 cloves garlic, minced",
+        "2 tbsp fresh parsley, chopped"
+      ],
+      "steps": [
+        "Mix butter, garlic, and parsley.",
+        "Spread on bread slices.",
+        "Bake at 375°F (190°C) for 10 minutes or until golden."
+      ],
+      "keywords": ["garlic bread", "side", "butter"]
+    },
+    {
+      "note": "Recipe 52 — Tomato Bruschetta",
+      "title": "Tomato Bruschetta",
+      "category": "appetizers/snacks",
+      "prep_time": "short",
+      "difficulty": "easy",
+      "dietary": ["vegetarian"],
+      "summary": "Grilled bread topped with fresh tomatoes, basil, and olive oil.",
+      "ingredients": [
+        "1 baguette, sliced",
+        "4 tomatoes, diced",
+        "2 cloves garlic, minced",
+        "2 tbsp olive oil",
+        "Fresh basil leaves",
+        "Salt and pepper"
+      ],
+      "steps": [
+        "Toast baguette slices.",
+        "Mix tomatoes, garlic, olive oil, basil, salt, and pepper.",
+        "Top bread with tomato mixture."
+      ],
+      "keywords": ["bruschetta", "tomato", "appetizer"]
+    }    ,
+    {
+      "note": "Recipe 53 — Spinach Artichoke Dip",
+      "title": "Spinach Artichoke Dip",
+      "category": "appetizers/snacks",
+      "prep_time": "medium",
+      "difficulty": "easy",
+      "dietary": ["vegetarian", "gluten-free"],
+      "summary": "Creamy dip with spinach, artichokes, and cheese.",
+      "ingredients": [
+        "1 cup chopped spinach",
+        "1 cup chopped artichoke hearts",
+        "1/2 cup sour cream",
+        "1/2 cup cream cheese",
+        "1/4 cup grated Parmesan cheese",
+        "1 clove garlic, minced"
+      ],
+      "steps": [
+        "Mix all ingredients in a bowl.",
+        "Transfer to a baking dish.",
+        "Bake at 375°F (190°C) for 20 minutes or until bubbly."
+      ],
+      "keywords": ["dip", "spinach", "artichoke", "appetizer"]
+    },
+    {
+      "note": "Recipe 54 — Classic Meatloaf",
+      "title": "Classic Meatloaf",
+      "category": "main dishes",
+      "prep_time": "long",
+      "difficulty": "easy",
+      "dietary": [],
+      "summary": "Traditional meatloaf with a tangy tomato glaze.",
+      "ingredients": [
+        "1 1/2 lbs ground beef",
+        "1 cup breadcrumbs",
+        "1/2 cup milk",
+        "1 egg",
+        "1 onion, chopped",
+        "1/2 cup ketchup",
+        "1 tbsp Worcestershire sauce",
+        "Salt and pepper"
+      ],
+      "steps": [
+        "Preheat oven to 375°F (190°C).",
+        "Mix all ingredients except ketchup.",
+        "Shape into a loaf in a baking dish.",
+        "Spread ketchup on top.",
+        "Bake for 1 hour or until cooked through."
+      ],
+      "keywords": ["meatloaf", "beef", "main dish"]
+    },
+    {
+      "note": "Recipe 55 — Grilled Veggie Skewers",
+      "title": "Grilled Veggie Skewers",
+      "category": "side dishes",
+      "prep_time": "medium",
+      "difficulty": "easy",
+      "dietary": ["vegan", "gluten-free"],
+      "summary": "Assorted vegetables grilled on skewers.",
+      "ingredients": [
+        "1 zucchini, sliced",
+        "1 red bell pepper, cubed",
+        "1 red onion, cubed",
+        "8 button mushrooms",
+        "2 tbsp olive oil",
+        "Salt and pepper"
+      ],
+      "steps": [
+        "Thread vegetables onto skewers.",
+        "Brush with olive oil and season.",
+        "Grill over medium heat until tender."
+      ],
+      "keywords": ["grilled vegetables", "skewers", "vegan"]
+    },
+    {
+      "note": "Recipe 56 — Baked Ziti",
+      "title": "Baked Ziti",
+      "category": "main dishes",
+      "prep_time": "medium",
+      "difficulty": "easy",
+      "dietary": ["vegetarian"],
+      "summary": "Pasta baked with marinara sauce and cheese.",
+      "ingredients": [
+        "12 oz ziti pasta",
+        "2 cups marinara sauce",
+        "1 cup ricotta cheese",
+        "2 cups shredded mozzarella cheese",
+        "1/4 cup grated Parmesan cheese"
+      ],
+      "steps": [
+        "Cook pasta until al dente.",
+        "Mix with marinara and ricotta.",
+        "Transfer to a baking dish.",
+        "Top with mozzarella and Parmesan.",
+        "Bake at 375°F (190°C) for 25 minutes."
+      ],
+      "keywords": ["baked ziti", "pasta", "vegetarian"]
+    },
+    {
+      "note": "Recipe 57 — Roasted Brussels Sprouts",
+      "title": "Roasted Brussels Sprouts",
+      "category": "side dishes",
+      "prep_time": "medium",
+      "difficulty": "easy",
+      "dietary": ["vegan", "gluten-free"],
+      "summary": "Crispy roasted Brussels sprouts with olive oil and seasoning.",
+      "ingredients": [
+        "1 lb Brussels sprouts, halved",
+        "2 tbsp olive oil",
+        "Salt and pepper"
+      ],
+      "steps": [
+        "Preheat oven to 425°F (220°C).",
+        "Toss Brussels sprouts with olive oil, salt, and pepper.",
+        "Roast for 20-25 minutes until crispy."
+      ],
+      "keywords": ["brussels sprouts", "roasted", "side dish"]
+    },
+    {
+      "note": "Recipe 58 — Egg Salad Sandwich",
+      "title": "Egg Salad Sandwich",
+      "category": "main dishes",
+      "prep_time": "short",
+      "difficulty": "easy",
+      "dietary": ["vegetarian"],
+      "summary": "Creamy egg salad served on whole grain bread.",
+      "ingredients": [
+        "4 hard-boiled eggs, chopped",
+        "1/4 cup mayonnaise",
+        "1 tsp mustard",
+        "Salt and pepper",
+        "4 slices whole grain bread",
+        "Lettuce leaves"
+      ],
+      "steps": [
+        "Mix eggs with mayonnaise, mustard, salt, and pepper.",
+        "Spread egg salad on bread slices.",
+        "Add lettuce and top with remaining bread."
+      ],
+      "keywords": ["egg salad", "sandwich", "lunch"]
+    },
+    {
+      "note": "Recipe 59 — Fresh Fruit Smoothie",
+      "title": "Fresh Fruit Smoothie",
+      "category": "drinks",
+      "prep_time": "short",
+      "difficulty": "easy",
+      "dietary": ["vegan", "gluten-free"],
+      "summary": "A simple smoothie with seasonal fresh fruits.",
+      "ingredients": [
+        "1 banana",
+        "1 cup strawberries",
+        "1/2 cup orange juice",
+        "1/2 cup ice cubes"
+      ],
+      "steps": [
+        "Blend all ingredients until smooth."
+      ],
+      "keywords": ["smoothie", "fruit", "drink"]
+    },
+    {
+      "note": "Recipe 60 — Oatmeal Raisin Cookies",
+      "title": "Oatmeal Raisin Cookies",
+      "category": "desserts",
+      "prep_time": "medium",
+      "difficulty": "easy",
+      "dietary": [],
+      "summary": "Soft and chewy oatmeal cookies with raisins.",
+      "ingredients": [
+        "1 cup butter, softened",
+        "1 cup brown sugar",
+        "1/2 cup sugar",
+        "2 eggs",
+        "1 tsp vanilla extract",
+        "1 1/2 cups flour",
+        "1 tsp baking soda",
+        "1 tsp cinnamon",
+        "3 cups rolled oats",
+        "1 cup raisins"
+      ],
+      "steps": [
+        "Preheat oven to 350°F (175°C).",
+        "Cream butter and sugars, then beat in eggs and vanilla.",
+        "Mix in flour, baking soda, and cinnamon.",
+        "Stir in oats and raisins.",
+        "Drop spoonfuls onto baking sheets and bake for 10-12 minutes."
+      ],
+      "keywords": ["oatmeal cookies", "raisin", "dessert"]
+    }    ,
+    {
+      "note": "Recipe 61 — Chicken Stir Fry",
+      "title": "Chicken Stir Fry",
+      "category": "main dishes",
+      "prep_time": "medium",
+      "difficulty": "easy",
+      "dietary": [],
+      "summary": "Quick stir fry with chicken and mixed vegetables.",
+      "ingredients": [
+        "1 lb chicken breast, sliced",
+        "2 cups mixed vegetables",
+        "2 tbsp soy sauce",
+        "1 tbsp sesame oil",
+        "1 clove garlic, minced",
+        "1 tsp grated ginger"
+      ],
+      "steps": [
+        "Heat sesame oil in a wok or skillet.",
+        "Add chicken and cook until browned.",
+        "Add garlic, ginger, and vegetables.",
+        "Stir fry until vegetables are tender.",
+        "Add soy sauce and stir to combine."
+      ],
+      "keywords": ["stir fry", "chicken", "vegetables"]
+    },
+    {
+      "note": "Recipe 62 — Greek Yogurt Chicken Salad",
+      "title": "Greek Yogurt Chicken Salad",
+      "category": "main dishes",
+      "prep_time": "short",
+      "difficulty": "easy",
+      "dietary": ["gluten-free"],
+      "summary": "Chicken salad made with Greek yogurt instead of mayo.",
+      "ingredients": [
+        "2 cups cooked chicken, shredded",
+        "1/2 cup Greek yogurt",
+        "1/4 cup diced celery",
+        "2 tbsp chopped green onion",
+        "Salt and pepper"
+      ],
+      "steps": [
+        "Combine all ingredients in a bowl.",
+        "Mix until well blended.",
+        "Chill before serving."
+      ],
+      "keywords": ["chicken salad", "greek yogurt", "lunch"]
+    },
+    {
+      "note": "Recipe 63 — Roasted Garlic Mashed Potatoes",
+      "title": "Roasted Garlic Mashed Potatoes",
+      "category": "side dishes",
+      "prep_time": "medium",
+      "difficulty": "easy",
+      "dietary": ["vegetarian", "gluten-free"],
+      "summary": "Creamy mashed potatoes with roasted garlic.",
+      "ingredients": [
+        "2 lbs potatoes, peeled and cubed",
+        "1 head garlic",
+        "1/2 cup milk",
+        "1/4 cup butter",
+        "Salt and pepper"
+      ],
+      "steps": [
+        "Roast garlic at 400°F (200°C) for 30 minutes.",
+        "Boil potatoes until tender.",
+        "Mash potatoes with roasted garlic, milk, butter, salt, and pepper."
+      ],
+      "keywords": ["mashed potatoes", "garlic", "side dish"]
+    },
+    {
+      "note": "Recipe 64 — Chickpea Curry",
+      "title": "Chickpea Curry",
+      "category": "main dishes",
+      "prep_time": "medium",
+      "difficulty": "easy",
+      "dietary": ["vegan", "gluten-free"],
+      "summary": "Spicy chickpea curry with coconut milk and tomatoes.",
+      "ingredients": [
+        "1 can chickpeas, drained",
+        "1 onion, chopped",
+        "2 cloves garlic, minced",
+        "1 tbsp curry powder",
+        "1 can diced tomatoes",
+        "1/2 cup coconut milk",
+        "Salt and pepper"
+      ],
+      "steps": [
+        "Sauté onion and garlic.",
+        "Add curry powder and stir until fragrant.",
+        "Add chickpeas, tomatoes, and coconut milk.",
+        "Simmer for 15-20 minutes.",
+        "Season with salt and pepper."
+      ],
+      "keywords": ["chickpea curry", "vegan", "main dish"]
+    },
+    {
+      "note": "Recipe 65 — Cucumber Tomato Salad",
+      "title": "Cucumber Tomato Salad",
+      "category": "soups & salads",
+      "prep_time": "short",
+      "difficulty": "easy",
+      "dietary": ["vegan", "gluten-free"],
+      "summary": "Simple salad with cucumber, tomato, and red onion.",
+      "ingredients": [
+        "2 cucumbers, sliced",
+        "4 tomatoes, chopped",
+        "1/4 cup red onion, thinly sliced",
+        "2 tbsp olive oil",
+        "1 tbsp red wine vinegar",
+        "Salt and pepper"
+      ],
+      "steps": [
+        "Combine cucumber, tomato, and onion in a bowl.",
+        "Drizzle with olive oil and vinegar.",
+        "Season with salt and pepper."
+      ],
+      "keywords": ["salad", "cucumber", "tomato", "vegan"]
+    },
+    {
+      "note": "Recipe 66 — Sweet Cornbread",
+      "title": "Sweet Cornbread",
+      "category": "side dishes",
+      "prep_time": "medium",
+      "difficulty": "easy",
+      "dietary": ["vegetarian"],
+      "summary": "Moist and sweet cornbread perfect as a side dish.",
+      "ingredients": [
+        "1 cup cornmeal",
+        "1 cup flour",
+        "1/4 cup sugar",
+        "1 tbsp baking powder",
+        "1/2 tsp salt",
+        "1 cup milk",
+        "2 eggs",
+        "1/4 cup melted butter"
+      ],
+      "steps": [
+        "Preheat oven to 400°F (200°C).",
+        "Mix dry ingredients.",
+        "Add milk, eggs, and melted butter.",
+        "Pour into greased pan and bake for 20-25 minutes."
+      ],
+      "keywords": ["cornbread", "sweet", "side dish"]
+    },
+    {
+      "note": "Recipe 67 — Turkey and Cheese Sandwich",
+      "title": "Turkey and Cheese Sandwich",
+      "category": "main dishes",
+      "prep_time": "short",
+      "difficulty": "easy",
+      "dietary": [],
+      "summary": "Classic turkey and cheese sandwich with lettuce and tomato.",
+      "ingredients": [
+        "4 slices whole grain bread",
+        "4 oz sliced turkey",
+        "2 slices cheese",
+        "Lettuce leaves",
+        "Tomato slices",
+        "Mayonnaise or mustard"
+      ],
+      "steps": [
+        "Spread mayonnaise or mustard on bread slices.",
+        "Layer turkey, cheese, lettuce, and tomato.",
+        "Top with remaining bread slices."
+      ],
+      "keywords": ["sandwich", "turkey", "lunch"]
+    },
+    {
+      "note": "Recipe 68 — Simple Garden Salad",
+      "title": "Simple Garden Salad",
+      "category": "soups & salads",
+      "prep_time": "short",
+      "difficulty": "easy",
+      "dietary": ["vegan", "gluten-free"],
+      "summary": "Mixed greens with fresh vegetables and vinaigrette.",
+      "ingredients": [
+        "4 cups mixed greens",
+        "1 cucumber, sliced",
+        "1 carrot, shredded",
+        "1/2 cup cherry tomatoes",
+        "2 tbsp vinaigrette dressing"
+      ],
+      "steps": [
+        "Combine greens and vegetables in a bowl.",
+        "Drizzle with vinaigrette and toss gently."
+      ],
+      "keywords": ["salad", "garden salad", "vegan"]
+    },
+    {
+      "note": "Recipe 69 — Grilled Cheese Sandwich",
+      "title": "Grilled Cheese Sandwich",
+      "category": "main dishes",
+      "prep_time": "short",
+      "difficulty": "easy",
+      "dietary": ["vegetarian"],
+      "summary": "Classic grilled cheese sandwich with melted cheddar.",
+      "ingredients": [
+        "4 slices bread",
+        "4 slices cheddar cheese",
+        "2 tbsp butter"
+      ],
+      "steps": [
+        "Butter one side of each bread slice.",
+        "Place cheese between two slices, buttered sides out.",
+        "Cook in skillet until golden brown on both sides."
+      ],
+      "keywords": ["grilled cheese", "sandwich", "lunch"]
+    },
+    {
+      "note": "Recipe 70 — Berry Spinach Smoothie",
+      "title": "Berry Spinach Smoothie",
+      "category": "drinks",
+      "prep_time": "short",
+      "difficulty": "easy",
+      "dietary": ["vegan", "gluten-free"],
+      "summary": "Healthy smoothie with berries and spinach.",
+      "ingredients": [
+        "1 cup mixed berries",
+        "1 cup spinach",
+        "1 banana",
+        "1 cup almond milk"
+      ],
+      "steps": [
+        "Blend all ingredients until smooth."
+      ],
+      "keywords": ["smoothie", "berries", "spinach", "drink"]
+    },
+    {
+      "note": "Recipe 71 — Roasted Carrots with Honey",
+      "title": "Roasted Carrots with Honey",
+      "category": "side dishes",
+      "prep_time": "medium",
+      "difficulty": "easy",
+      "dietary": ["vegetarian", "gluten-free"],
+      "summary": "Tender roasted carrots glazed with honey.",
+      "ingredients": [
+        "1 lb carrots, peeled and sliced",
+        "2 tbsp olive oil",
+        "1 tbsp honey",
+        "Salt and pepper"
+      ],
+      "steps": [
+        "Preheat oven to 400°F (200°C).",
+        "Toss carrots with olive oil, salt, and pepper.",
+        "Roast for 20-25 minutes.",
+        "Drizzle with honey before serving."
+      ],
+      "keywords": ["carrots", "roasted", "honey", "side dish"]
+    },
+    {
+      "note": "Recipe 72 — Tuna Salad",
+      "title": "Tuna Salad",
+      "category": "main dishes",
+      "prep_time": "short",
+      "difficulty": "easy",
+      "dietary": ["gluten-free"],
+      "summary": "Simple tuna salad with celery and mayonnaise.",
+      "ingredients": [
+        "1 can tuna, drained",
+        "1/4 cup mayonnaise",
+        "2 tbsp diced celery",
+        "Salt and pepper"
+      ],
+      "steps": [
+        "Mix all ingredients in a bowl.",
+        "Chill before serving."
+      ],
+      "keywords": ["tuna salad", "lunch", "gluten-free"]
+    },
+    {
+      "note": "Recipe 73 — Fresh Lemon Vinaigrette",
+      "title": "Fresh Lemon Vinaigrette",
+      "category": "soups & salads",
+      "prep_time": "short",
+      "difficulty": "easy",
+      "dietary": ["vegan", "gluten-free"],
+      "summary": "Light and tangy salad dressing.",
+      "ingredients": [
+        "1/4 cup olive oil",
+        "2 tbsp fresh lemon juice",
+        "1 tsp Dijon mustard",
+        "Salt and pepper"
+      ],
+      "steps": [
+        "Whisk together all ingredients."
+      ],
+      "keywords": ["vinaigrette", "lemon", "salad dressing"]
+    },
+    {
+      "note": "Recipe 74 — Spaghetti with Marinara",
+      "title": "Spaghetti with Marinara",
+      "category": "main dishes",
+      "prep_time": "short",
+      "difficulty": "easy",
+      "dietary": ["vegetarian"],
+      "summary": "Spaghetti topped with classic marinara sauce.",
+      "ingredients": [
+        "8 oz spaghetti",
+        "2 cups marinara sauce",
+        "Grated Parmesan cheese (optional)"
+      ],
+      "steps": [
+        "Cook spaghetti until al dente.",
+        "Heat marinara sauce and pour over spaghetti.",
+        "Top with Parmesan cheese if desired."
+      ],
+      "keywords": ["spaghetti", "marinara", "pasta"]
+    },
+    {
+      "note": "Recipe 75 — Chocolate Covered Strawberries",
+      "title": "Chocolate Covered Strawberries",
+      "category": "desserts",
+      "prep_time": "short (plus chilling)",
+      "difficulty": "easy",
+      "dietary": ["gluten-free"],
+      "summary": "Fresh strawberries dipped in melted chocolate.",
+      "ingredients": [
+        "12 fresh strawberries",
+        "4 oz dark or milk chocolate"
+      ],
+      "steps": [
+        "Melt chocolate in a microwave or double boiler.",
+        "Dip strawberries into chocolate.",
+        "Place on parchment paper and chill until set."
+      ],
+      "keywords": ["strawberries", "chocolate", "dessert"]
+    }    ,
+    {
+      "note": "Recipe 76 — Quinoa Breakfast Bowl",
+      "title": "Quinoa Breakfast Bowl",
+      "category": "breakfast",
+      "prep_time": "medium",
+      "difficulty": "easy",
+      "dietary": ["vegetarian", "gluten-free"],
+      "summary": "A protein-packed breakfast bowl with quinoa, berries, and nuts.",
+      "ingredients": [
+        "1 cup cooked quinoa",
+        "1/2 cup mixed berries",
+        "2 tbsp chopped nuts",
+        "1 tbsp honey",
+        "1/4 cup Greek yogurt (optional)"
+      ],
+      "steps": [
+        "Spoon quinoa into a bowl.",
+        "Top with berries, nuts, and a drizzle of honey.",
+        "Add Greek yogurt if desired."
+      ],
+      "keywords": ["quinoa", "breakfast", "berries", "healthy"]
+    },
+    {
+      "note": "Recipe 77 — Veggie Quesadilla",
+      "title": "Veggie Quesadilla",
+      "category": "main dishes",
+      "prep_time": "short",
+      "difficulty": "easy",
+      "dietary": ["vegetarian"],
+      "summary": "A cheesy quesadilla filled with sautéed vegetables.",
+      "ingredients": [
+        "2 large flour tortillas",
+        "1 cup shredded cheese",
+        "1/2 cup bell peppers, sliced",
+        "1/2 cup mushrooms, sliced",
+        "1/4 cup onions, sliced",
+        "1 tbsp olive oil"
+      ],
+      "steps": [
+        "Sauté vegetables in olive oil until tender.",
+        "Place vegetables and cheese between tortillas.",
+        "Cook on a skillet until tortillas are golden and cheese melts."
+      ],
+      "keywords": ["quesadilla", "vegetarian", "cheese", "easy"]
+    },
+    {
+      "note": "Recipe 78 — Almond Butter Banana Toast",
+      "title": "Almond Butter Banana Toast",
+      "category": "breakfast",
+      "prep_time": "short",
+      "difficulty": "easy",
+      "dietary": ["vegan"],
+      "summary": "Whole grain toast topped with almond butter and banana slices.",
+      "ingredients": [
+        "2 slices whole grain bread",
+        "2 tbsp almond butter",
+        "1 banana, sliced"
+      ],
+      "steps": [
+        "Toast the bread slices.",
+        "Spread almond butter on toast.",
+        "Top with banana slices."
+      ],
+      "keywords": ["toast", "banana", "almond butter", "breakfast"]
+    },
+    {
+      "note": "Recipe 79 — Baked Sweet Potato Fries",
+      "title": "Baked Sweet Potato Fries",
+      "category": "side dishes",
+      "prep_time": "medium",
+      "difficulty": "easy",
+      "dietary": ["vegan", "gluten-free"],
+      "summary": "Crispy baked sweet potato fries seasoned with paprika.",
+      "ingredients": [
+        "2 large sweet potatoes, cut into fries",
+        "2 tbsp olive oil",
+        "1 tsp paprika",
+        "Salt and pepper"
+      ],
+      "steps": [
+        "Preheat oven to 425°F (220°C).",
+        "Toss fries with olive oil, paprika, salt, and pepper.",
+        "Spread on a baking sheet and bake for 20-25 minutes, flipping halfway."
+      ],
+      "keywords": ["sweet potato", "fries", "baked", "vegan"]
+    },
+    {
+      "note": "Recipe 80 — Honey Mustard Dressing",
+      "title": "Honey Mustard Dressing",
+      "category": "soups & salads",
+      "prep_time": "short",
+      "difficulty": "easy",
+      "dietary": ["gluten-free", "vegetarian"],
+      "summary": "A quick homemade dressing with honey, mustard, and vinegar.",
+      "ingredients": [
+        "1/4 cup Dijon mustard",
+        "2 tbsp honey",
+        "2 tbsp apple cider vinegar",
+        "2 tbsp olive oil",
+        "Salt and pepper"
+      ],
+      "steps": [
+        "Whisk together all ingredients until smooth."
+      ],
+      "keywords": ["honey mustard", "dressing", "salad"]
+    }    ,
+    {
+      "note": "Recipe 81 — Spaghetti Squash with Marinara",
+      "title": "Spaghetti Squash with Marinara",
+      "category": "main dishes",
+      "prep_time": "long",
+      "difficulty": "easy",
+      "dietary": ["vegetarian", "gluten-free"],
+      "summary": "Roasted spaghetti squash topped with marinara sauce and Parmesan.",
+      "ingredients": [
+        "1 spaghetti squash",
+        "2 cups marinara sauce",
+        "1/4 cup grated Parmesan cheese",
+        "Salt and pepper"
+      ],
+      "steps": [
+        "Preheat oven to 400°F (200°C).",
+        "Cut squash in half and roast cut-side down for 40 minutes.",
+        "Scrape out strands and top with marinara and Parmesan."
+      ],
+      "keywords": ["spaghetti squash", "marinara", "vegetarian"]
+    },
+    {
+      "note": "Recipe 82 — Roasted Red Pepper Hummus",
+      "title": "Roasted Red Pepper Hummus",
+      "category": "appetizers/snacks",
+      "prep_time": "short",
+      "difficulty": "easy",
+      "dietary": ["vegan", "gluten-free"],
+      "summary": "Creamy hummus blended with roasted red peppers.",
+      "ingredients": [
+        "1 can chickpeas, drained",
+        "1/4 cup tahini",
+        "1 roasted red pepper",
+        "2 tbsp olive oil",
+        "Juice of 1 lemon",
+        "1 clove garlic",
+        "Salt to taste"
+      ],
+      "steps": [
+        "Blend all ingredients in a food processor until smooth."
+      ],
+      "keywords": ["hummus", "roasted pepper", "vegan"]
+    },
+    {
+      "note": "Recipe 83 — Chicken Fajitas",
+      "title": "Chicken Fajitas",
+      "category": "main dishes",
+      "prep_time": "medium",
+      "difficulty": "easy",
+      "dietary": ["gluten-free"],
+      "summary": "Sautéed chicken strips with bell peppers and onions, served with tortillas.",
+      "ingredients": [
+        "1 lb chicken breast, sliced",
+        "2 bell peppers, sliced",
+        "1 onion, sliced",
+        "2 tbsp fajita seasoning",
+        "1 tbsp olive oil",
+        "Tortillas for serving"
+      ],
+      "steps": [
+        "Heat olive oil in a skillet.",
+        "Cook chicken until browned, add peppers and onions.",
+        "Stir in fajita seasoning and cook until vegetables are tender.",
+        "Serve with tortillas."
+      ],
+      "keywords": ["chicken", "fajitas", "main dish"]
+    },
+    {
+      "note": "Recipe 84 — Avocado Egg Salad",
+      "title": "Avocado Egg Salad",
+      "category": "main dishes",
+      "prep_time": "short",
+      "difficulty": "easy",
+      "dietary": ["gluten-free"],
+      "summary": "Egg salad mixed with creamy avocado and seasonings.",
+      "ingredients": [
+        "4 hard-boiled eggs, chopped",
+        "1 ripe avocado, mashed",
+        "1 tbsp mayonnaise",
+        "1 tsp lemon juice",
+        "Salt and pepper"
+      ],
+      "steps": [
+        "Mix all ingredients in a bowl.",
+        "Serve on bread, lettuce leaves, or crackers."
+      ],
+      "keywords": ["egg salad", "avocado", "lunch"]
+    },
+    {
+      "note": "Recipe 85 — Broccoli Cheddar Bites",
+      "title": "Broccoli Cheddar Bites",
+      "category": "appetizers/snacks",
+      "prep_time": "medium",
+      "difficulty": "easy",
+      "dietary": ["vegetarian"],
+      "summary": "Mini baked bites filled with broccoli and cheddar cheese.",
+      "ingredients": [
+        "2 cups chopped cooked broccoli",
+        "1 cup shredded cheddar cheese",
+        "1/2 cup breadcrumbs",
+        "1 egg",
+        "Salt and pepper"
+      ],
+      "steps": [
+        "Preheat oven to 375°F (190°C).",
+        "Mix all ingredients together.",
+        "Shape into small balls and place on a baking sheet.",
+        "Bake for 20 minutes."
+      ],
+      "keywords": ["broccoli", "cheddar", "snack"]
+    },
+    {
+      "note": "Recipe 86 — Berry Chia Pudding",
+      "title": "Berry Chia Pudding",
+      "category": "breakfast",
+      "prep_time": "short (plus chilling)",
+      "difficulty": "easy",
+      "dietary": ["vegan", "gluten-free"],
+      "summary": "Overnight chia pudding topped with fresh berries.",
+      "ingredients": [
+        "1/4 cup chia seeds",
+        "1 cup almond milk",
+        "1 tbsp maple syrup",
+        "1/2 cup mixed berries"
+      ],
+      "steps": [
+        "Mix chia seeds, almond milk, and maple syrup in a jar.",
+        "Refrigerate overnight.",
+        "Top with berries before serving."
+      ],
+      "keywords": ["chia pudding", "berries", "breakfast"]
+    },
+    {
+      "note": "Recipe 87 — Balsamic Roasted Vegetables",
+      "title": "Balsamic Roasted Vegetables",
+      "category": "side dishes",
+      "prep_time": "medium",
+      "difficulty": "easy",
+      "dietary": ["vegan", "gluten-free"],
+      "summary": "Seasonal vegetables roasted with balsamic glaze.",
+      "ingredients": [
+        "2 cups mixed vegetables (zucchini, bell peppers, onions)",
+        "2 tbsp olive oil",
+        "2 tbsp balsamic vinegar",
+        "Salt and pepper"
+      ],
+      "steps": [
+        "Preheat oven to 425°F (220°C).",
+        "Toss vegetables with olive oil, balsamic vinegar, salt, and pepper.",
+        "Roast for 20-25 minutes."
+      ],
+      "keywords": ["roasted vegetables", "balsamic", "side dish"]
+    },
+    {
+      "note": "Recipe 88 — Chicken Salad Lettuce Wraps",
+      "title": "Chicken Salad Lettuce Wraps",
+      "category": "main dishes",
+      "prep_time": "short",
+      "difficulty": "easy",
+      "dietary": ["gluten-free"],
+      "summary": "Chicken salad served in crisp lettuce leaves.",
+      "ingredients": [
+        "2 cups cooked chicken, shredded",
+        "1/4 cup mayonnaise",
+        "1 stalk celery, diced",
+        "1 tbsp Dijon mustard",
+        "Salt and pepper",
+        "Lettuce leaves"
+      ],
+      "steps": [
+        "Mix chicken, mayonnaise, celery, mustard, salt, and pepper.",
+        "Scoop into lettuce leaves and serve."
+      ],
+      "keywords": ["chicken salad", "lettuce wraps", "low-carb"]
+    },
+    {
+      "note": "Recipe 89 — Pasta Primavera",
+      "title": "Pasta Primavera",
+      "category": "main dishes",
+      "prep_time": "medium",
+      "difficulty": "easy",
+      "dietary": ["vegetarian"],
+      "summary": "Pasta with a medley of sautéed spring vegetables.",
+      "ingredients": [
+        "8 oz pasta",
+        "1 zucchini, sliced",
+        "1 bell pepper, sliced",
+        "1 cup broccoli florets",
+        "2 cloves garlic, minced",
+        "2 tbsp olive oil",
+        "1/4 cup grated Parmesan cheese"
+      ],
+      "steps": [
+        "Cook pasta until al dente.",
+        "Sauté vegetables and garlic in olive oil.",
+        "Toss vegetables with pasta.",
+        "Top with Parmesan cheese."
+      ],
+      "keywords": ["pasta", "vegetables", "vegetarian"]
+    },
+    {
+      "note": "Recipe 90 — Fresh Fruit Salad",
+      "title": "Fresh Fruit Salad",
+      "category": "side dishes",
+      "prep_time": "short",
+      "difficulty": "easy",
+      "dietary": ["vegan", "gluten-free"],
+      "summary": "A colorful mix of fresh seasonal fruits.",
+      "ingredients": [
+        "2 cups diced pineapple",
+        "1 cup grapes",
+        "1 cup strawberries, sliced",
+        "1 cup blueberries",
+        "Juice of 1 lime"
+      ],
+      "steps": [
+        "Combine all fruits in a large bowl.",
+        "Drizzle with lime juice and toss gently."
+      ],
+      "keywords": ["fruit salad", "fresh", "easy"]
+    }    ,
+    {
+      "note": "Recipe 91 — Chicken Caesar Salad",
+      "title": "Chicken Caesar Salad",
+      "category": "soups & salads",
+      "prep_time": "medium",
+      "difficulty": "easy",
+      "dietary": [],
+      "summary": "Crisp romaine tossed with Caesar dressing, grilled chicken, and Parmesan.",
+      "ingredients": [
+        "4 cups romaine lettuce, chopped",
+        "2 grilled chicken breasts, sliced",
+        "1/2 cup Caesar dressing",
+        "1/4 cup grated Parmesan cheese",
+        "1/2 cup croutons"
+      ],
+      "steps": [
+        "Toss lettuce with dressing.",
+        "Top with sliced chicken, Parmesan, and croutons."
+      ],
+      "keywords": ["Caesar salad", "chicken", "salad"]
+    },
+    {
+      "note": "Recipe 92 — Margherita Pizza",
+      "title": "Margherita Pizza",
+      "category": "main dishes",
+      "prep_time": "medium",
+      "difficulty": "moderate",
+      "dietary": ["vegetarian"],
+      "summary": "Classic pizza with tomato, mozzarella, and basil.",
+      "ingredients": [
+        "1 pizza dough",
+        "1/2 cup tomato sauce",
+        "8 oz fresh mozzarella, sliced",
+        "Fresh basil leaves",
+        "1 tbsp olive oil"
+      ],
+      "steps": [
+        "Preheat oven to 475°F (245°C).",
+        "Spread sauce over dough.",
+        "Add mozzarella and bake for 10-12 minutes.",
+        "Top with basil and drizzle with olive oil."
+      ],
+      "keywords": ["pizza", "margherita", "vegetarian"]
+    },
+    {
+      "note": "Recipe 93 — Greek Chicken Souvlaki",
+      "title": "Greek Chicken Souvlaki",
+      "category": "main dishes",
+      "prep_time": "medium",
+      "difficulty": "easy",
+      "dietary": ["gluten-free"],
+      "summary": "Grilled chicken skewers marinated in lemon and herbs.",
+      "ingredients": [
+        "1 lb chicken breast, cubed",
+        "2 tbsp olive oil",
+        "Juice of 1 lemon",
+        "2 cloves garlic, minced",
+        "1 tsp oregano",
+        "Salt and pepper"
+      ],
+      "steps": [
+        "Marinate chicken in olive oil, lemon, garlic, oregano, salt, and pepper.",
+        "Thread onto skewers.",
+        "Grill until cooked through."
+      ],
+      "keywords": ["souvlaki", "chicken", "grilled"]
+    },
+    {
+      "note": "Recipe 94 — Spinach and Feta Omelette",
+      "title": "Spinach and Feta Omelette",
+      "category": "breakfast",
+      "prep_time": "short",
+      "difficulty": "easy",
+      "dietary": ["vegetarian", "gluten-free"],
+      "summary": "Fluffy omelette filled with spinach and crumbled feta.",
+      "ingredients": [
+        "3 eggs",
+        "1 cup spinach",
+        "1/4 cup crumbled feta cheese",
+        "Salt and pepper",
+        "1 tbsp butter"
+      ],
+      "steps": [
+        "Whisk eggs with salt and pepper.",
+        "Sauté spinach in butter.",
+        "Pour eggs over spinach, cook until set.",
+        "Sprinkle with feta before folding."
+      ],
+      "keywords": ["omelette", "spinach", "breakfast"]
+    },
+    {
+      "note": "Recipe 95 — Strawberry Banana Smoothie",
+      "title": "Strawberry Banana Smoothie",
+      "category": "drinks",
+      "prep_time": "short",
+      "difficulty": "easy",
+      "dietary": ["vegetarian", "gluten-free"],
+      "summary": "Classic smoothie with strawberries, banana, and yogurt.",
+      "ingredients": [
+        "1 banana",
+        "1 cup strawberries",
+        "1/2 cup Greek yogurt",
+        "1/2 cup milk",
+        "1 tbsp honey (optional)"
+      ],
+      "steps": [
+        "Blend all ingredients until smooth."
+      ],
+      "keywords": ["smoothie", "strawberry", "banana"]
+    },
+    {
+      "note": "Recipe 96 — Roasted Cauliflower",
+      "title": "Roasted Cauliflower",
+      "category": "side dishes",
+      "prep_time": "medium",
+      "difficulty": "easy",
+      "dietary": ["vegan", "gluten-free"],
+      "summary": "Cauliflower florets roasted with olive oil and spices.",
+      "ingredients": [
+        "1 head cauliflower, cut into florets",
+        "2 tbsp olive oil",
+        "1 tsp paprika",
+        "Salt and pepper"
+      ],
+      "steps": [
+        "Preheat oven to 425°F (220°C).",
+        "Toss cauliflower with olive oil, paprika, salt, and pepper.",
+        "Roast for 25-30 minutes until golden."
+      ],
+      "keywords": ["cauliflower", "roasted", "vegan"]
+    },
+    {
+      "note": "Recipe 97 — Tomato Basil Bruschetta",
+      "title": "Tomato Basil Bruschetta",
+      "category": "appetizers/snacks",
+      "prep_time": "short",
+      "difficulty": "easy",
+      "dietary": ["vegetarian"],
+      "summary": "Toasted bread topped with tomatoes, basil, and olive oil.",
+      "ingredients": [
+        "1 baguette, sliced and toasted",
+        "4 tomatoes, diced",
+        "2 tbsp chopped fresh basil",
+        "2 tbsp olive oil",
+        "Salt and pepper"
+      ],
+      "steps": [
+        "Mix tomatoes, basil, olive oil, salt, and pepper.",
+        "Spoon mixture onto toasted bread slices."
+      ],
+      "keywords": ["bruschetta", "tomato", "basil"]
+    },
+    {
+      "note": "Recipe 98 — Baked Tilapia",
+      "title": "Baked Tilapia",
+      "category": "main dishes",
+      "prep_time": "medium",
+      "difficulty": "easy",
+      "dietary": ["gluten-free"],
+      "summary": "Tender baked tilapia seasoned with lemon and herbs.",
+      "ingredients": [
+        "4 tilapia fillets",
+        "2 tbsp olive oil",
+        "Juice of 1 lemon",
+        "1 tsp garlic powder",
+        "1 tsp dried parsley",
+        "Salt and pepper"
+      ],
+      "steps": [
+        "Preheat oven to 375°F (190°C).",
+        "Place tilapia on a baking sheet.",
+        "Drizzle with olive oil and lemon juice.",
+        "Season with garlic powder, parsley, salt, and pepper.",
+        "Bake for 15-20 minutes."
+      ],
+      "keywords": ["tilapia", "baked", "seafood"]
+    },
+    {
+      "note": "Recipe 99 — Veggie Pasta Salad",
+      "title": "Veggie Pasta Salad",
+      "category": "soups & salads",
+      "prep_time": "medium",
+      "difficulty": "easy",
+      "dietary": ["vegetarian"],
+      "summary": "Chilled pasta salad with fresh vegetables and Italian dressing.",
+      "ingredients": [
+        "8 oz rotini pasta",
+        "1 cup cherry tomatoes, halved",
+        "1/2 cup cucumbers, diced",
+        "1/4 cup black olives, sliced",
+        "1/4 cup Italian dressing",
+        "Salt and pepper"
+      ],
+      "steps": [
+        "Cook pasta, drain and cool.",
+        "Mix with vegetables and dressing.",
+        "Season with salt and pepper."
+      ],
+      "keywords": ["pasta salad", "vegetarian", "easy"]
+    },
+    {
+      "note": "Recipe 100 — Chocolate Banana Overnight Oats",
+      "title": "Chocolate Banana Overnight Oats",
+      "category": "breakfast",
+      "prep_time": "short (plus chilling)",
+      "difficulty": "easy",
+      "dietary": ["vegetarian"],
+      "summary": "Overnight oats flavored with cocoa and ripe bananas.",
+      "ingredients": [
+        "1/2 cup rolled oats",
+        "1/2 cup milk",
+        "1 tbsp cocoa powder",
+        "1 banana, mashed",
+        "1 tbsp honey (optional)"
+      ],
+      "steps": [
+        "Mix all ingredients in a jar.",
+        "Refrigerate overnight.",
+        "Stir before serving."
+      ],
+      "keywords": ["overnight oats", "banana", "chocolate"]
+    }    ,
+    {
+      "note": "Recipe 101 — Turkey Chili",
+      "title": "Turkey Chili",
+      "category": "main dishes",
+      "prep_time": "long",
+      "difficulty": "easy",
+      "dietary": ["gluten-free"],
+      "summary": "Hearty chili made with ground turkey, beans, and spices.",
+      "ingredients": [
+        "1 lb ground turkey",
+        "1 onion, chopped",
+        "2 cloves garlic, minced",
+        "1 can diced tomatoes",
+        "1 can kidney beans, drained",
+        "2 tbsp chili powder",
+        "1 tsp cumin",
+        "Salt and pepper"
+      ],
+      "steps": [
+        "Brown turkey with onion and garlic.",
+        "Add tomatoes, beans, and spices.",
+        "Simmer for at least 30 minutes.",
+        "Season with salt and pepper."
+      ],
+      "keywords": ["chili", "turkey", "gluten-free"]
+    },
+    {
+      "note": "Recipe 102 — Cucumber Mint Water",
+      "title": "Cucumber Mint Water",
+      "category": "drinks",
+      "prep_time": "short",
+      "difficulty": "easy",
+      "dietary": ["vegan", "gluten-free"],
+      "summary": "Refreshing infused water with cucumber and mint.",
+      "ingredients": [
+        "1/2 cucumber, sliced",
+        "10 fresh mint leaves",
+        "4 cups water",
+        "Ice cubes"
+      ],
+      "steps": [
+        "Combine cucumber and mint in a pitcher with water.",
+        "Chill before serving."
+      ],
+      "keywords": ["infused water", "cucumber", "mint"]
+    },
+    {
+      "note": "Recipe 103 — Banana Nut Muffins",
+      "title": "Banana Nut Muffins",
+      "category": "breakfast",
+      "prep_time": "medium",
+      "difficulty": "easy",
+      "dietary": ["vegetarian"],
+      "summary": "Moist muffins with bananas and chopped walnuts.",
+      "ingredients": [
+        "2 ripe bananas, mashed",
+        "1/2 cup sugar",
+        "1/3 cup butter, melted",
+        "1 egg",
+        "1 1/2 cups flour",
+        "1 tsp baking soda",
+        "1/2 tsp salt",
+        "1/2 cup chopped walnuts"
+      ],
+      "steps": [
+        "Preheat oven to 350°F (175°C).",
+        "Mix bananas, sugar, butter, and egg.",
+        "Stir in flour, baking soda, and salt.",
+        "Fold in walnuts.",
+        "Divide into muffin tins and bake for 20-25 minutes."
+      ],
+      "keywords": ["banana muffins", "walnuts", "breakfast"]
+    },
+    {
+      "note": "Recipe 104 — Classic Deviled Eggs",
+      "title": "Classic Deviled Eggs",
+      "category": "appetizers/snacks",
+      "prep_time": "short",
+      "difficulty": "easy",
+      "dietary": ["gluten-free"],
+      "summary": "Hard-boiled eggs with a creamy mustard filling.",
+      "ingredients": [
+        "6 eggs, hard-boiled",
+        "1/4 cup mayonnaise",
+        "1 tsp yellow mustard",
+        "Salt and pepper",
+        "Paprika for garnish"
+      ],
+      "steps": [
+        "Halve eggs and remove yolks.",
+        "Mash yolks with mayonnaise, mustard, salt, and pepper.",
+        "Spoon or pipe filling into egg whites.",
+        "Sprinkle with paprika."
+      ],
+      "keywords": ["deviled eggs", "appetizer", "gluten-free"]
+    },
+    {
+      "note": "Recipe 105 — Shrimp Tacos with Slaw",
+      "title": "Shrimp Tacos with Slaw",
+      "category": "main dishes",
+      "prep_time": "medium",
+      "difficulty": "easy",
+      "dietary": [],
+      "summary": "Seasoned shrimp served in tortillas with a crunchy slaw.",
+      "ingredients": [
+        "1 lb shrimp, peeled and deveined",
+        "1 tbsp taco seasoning",
+        "8 small tortillas",
+        "2 cups shredded cabbage",
+        "2 tbsp lime juice",
+        "1/4 cup mayonnaise",
+        "Salt and pepper"
+      ],
+      "steps": [
+        "Season shrimp with taco seasoning and cook until pink.",
+        "Mix cabbage with lime juice, mayonnaise, salt, and pepper for slaw.",
+        "Assemble tacos with shrimp and slaw."
+      ],
+      "keywords": ["shrimp tacos", "seafood", "slaw"]
+    },
+    {
+      "note": "Recipe 106 — Mediterranean Couscous Salad",
+      "title": "Mediterranean Couscous Salad",
+      "category": "soups & salads",
+      "prep_time": "medium",
+      "difficulty": "easy",
+      "dietary": ["vegetarian"],
+      "summary": "Couscous salad with cucumbers, tomatoes, feta, and lemon dressing.",
+      "ingredients": [
+        "1 cup cooked couscous",
+        "1 cucumber, diced",
+        "2 tomatoes, diced",
+        "1/4 cup crumbled feta",
+        "2 tbsp olive oil",
+        "Juice of 1 lemon",
+        "Salt and pepper"
+      ],
+      "steps": [
+        "Combine couscous, cucumber, tomatoes, and feta.",
+        "Drizzle with olive oil and lemon juice.",
+        "Season with salt and pepper."
+      ],
+      "keywords": ["couscous", "salad", "mediterranean"]
+    },
+    {
+      "note": "Recipe 107 — Baked Chicken Parmesan",
+      "title": "Baked Chicken Parmesan",
+      "category": "main dishes",
+      "prep_time": "medium",
+      "difficulty": "moderate",
+      "dietary": [],
+      "summary": "Breaded chicken breasts baked with marinara sauce and mozzarella.",
+      "ingredients": [
+        "4 chicken breasts",
+        "1 cup breadcrumbs",
+        "1/2 cup grated Parmesan cheese",
+        "1 egg, beaten",
+        "2 cups marinara sauce",
+        "1 cup shredded mozzarella cheese"
+      ],
+      "steps": [
+        "Preheat oven to 375°F (190°C).",
+        "Coat chicken in egg, then breadcrumb and Parmesan mixture.",
+        "Bake for 20 minutes.",
+        "Top with marinara and mozzarella and bake 10 more minutes."
+      ],
+      "keywords": ["chicken parmesan", "baked", "Italian"]
+    },
+    {
+      "note": "Recipe 108 — Mango Salsa",
+      "title": "Mango Salsa",
+      "category": "appetizers/snacks",
+      "prep_time": "short",
+      "difficulty": "easy",
+      "dietary": ["vegan", "gluten-free"],
+      "summary": "Fresh salsa made with mango, red onion, cilantro, and lime.",
+      "ingredients": [
+        "2 mangoes, diced",
+        "1/4 cup red onion, finely chopped",
+        "1 jalapeño, minced",
+        "2 tbsp chopped cilantro",
+        "Juice of 1 lime",
+        "Salt to taste"
+      ],
+      "steps": [
+        "Mix all ingredients in a bowl.",
+        "Serve with chips or as a topping for meat or fish."
+      ],
+      "keywords": ["mango salsa", "appetizer", "fresh"]
+    },
+    {
+      "note": "Recipe 109 — Vegetable Stir Fry",
+      "title": "Vegetable Stir Fry",
+      "category": "main dishes",
+      "prep_time": "short",
+      "difficulty": "easy",
+      "dietary": ["vegan", "gluten-free"],
+      "summary": "Colorful vegetables stir-fried with soy sauce and garlic.",
+      "ingredients": [
+        "2 cups mixed vegetables (broccoli, bell peppers, snap peas)",
+        "2 tbsp soy sauce",
+        "1 tbsp sesame oil",
+        "2 cloves garlic, minced",
+        "1 tsp grated ginger"
+      ],
+      "steps": [
+        "Heat sesame oil in a skillet.",
+        "Add garlic and ginger.",
+        "Stir fry vegetables until crisp-tender.",
+        "Add soy sauce and toss to coat."
+      ],
+      "keywords": ["vegetable stir fry", "vegan", "gluten-free"]
+    },
+    {
+      "note": "Recipe 110 — Blueberry Pancakes",
+      "title": "Blueberry Pancakes",
+      "category": "breakfast",
+      "prep_time": "medium",
+      "difficulty": "easy",
+      "dietary": ["vegetarian"],
+      "summary": "Fluffy pancakes filled with fresh blueberries.",
+      "ingredients": [
+        "1 cup flour",
+        "1 tbsp sugar",
+        "1 tsp baking powder",
+        "1/2 tsp salt",
+        "1 egg",
+        "3/4 cup milk",
+        "2 tbsp melted butter",
+        "1/2 cup fresh blueberries"
+      ],
+      "steps": [
+        "Mix dry ingredients in a bowl.",
+        "Whisk in egg, milk, and melted butter.",
+        "Fold in blueberries.",
+        "Cook on a griddle until golden on both sides."
+      ],
+      "keywords": ["pancakes", "blueberry", "breakfast"]
+    }    ,
+    {
+      "note": "Recipe 111 — Chicken Vegetable Soup",
+      "title": "Chicken Vegetable Soup",
+      "category": "soups & salads",
+      "prep_time": "medium",
+      "difficulty": "easy",
+      "dietary": ["gluten-free"],
+      "summary": "Light chicken soup with mixed vegetables.",
+      "ingredients": [
+        "2 cups cooked chicken, shredded",
+        "4 cups chicken broth",
+        "1 cup carrots, sliced",
+        "1 cup celery, sliced",
+        "1 onion, chopped",
+        "1 cup green beans",
+        "Salt and pepper"
+      ],
+      "steps": [
+        "Combine all ingredients in a large pot.",
+        "Simmer until vegetables are tender.",
+        "Season with salt and pepper."
+      ],
+      "keywords": ["chicken soup", "vegetables", "gluten-free"]
+    },
+    {
+      "note": "Recipe 112 — Tuna Pasta Salad",
+      "title": "Tuna Pasta Salad",
+      "category": "soups & salads",
+      "prep_time": "medium",
+      "difficulty": "easy",
+      "dietary": [],
+      "summary": "Cold pasta salad with tuna, peas, and creamy dressing.",
+      "ingredients": [
+        "8 oz rotini pasta",
+        "1 can tuna, drained",
+        "1 cup frozen peas, thawed",
+        "1/2 cup mayonnaise",
+        "2 tbsp lemon juice",
+        "Salt and pepper"
+      ],
+      "steps": [
+        "Cook pasta and cool.",
+        "Mix pasta with tuna, peas, mayonnaise, lemon juice, salt, and pepper."
+      ],
+      "keywords": ["tuna", "pasta salad", "easy"]
+    },
+    {
+      "note": "Recipe 113 — Zucchini Noodles with Pesto",
+      "title": "Zucchini Noodles with Pesto",
+      "category": "main dishes",
+      "prep_time": "short",
+      "difficulty": "easy",
+      "dietary": ["vegetarian", "gluten-free"],
+      "summary": "Light zucchini noodles tossed with basil pesto.",
+      "ingredients": [
+        "4 zucchinis, spiralized",
+        "1/2 cup basil pesto",
+        "1/4 cup grated Parmesan cheese",
+        "Salt and pepper"
+      ],
+      "steps": [
+        "Sauté zucchini noodles lightly in a skillet.",
+        "Toss with pesto and Parmesan.",
+        "Season with salt and pepper."
+      ],
+      "keywords": ["zucchini noodles", "pesto", "low-carb"]
+    },
+    {
+      "note": "Recipe 114 — Green Smoothie",
+      "title": "Green Smoothie",
+      "category": "drinks",
+      "prep_time": "short",
+      "difficulty": "easy",
+      "dietary": ["vegan", "gluten-free"],
+      "summary": "Healthy smoothie with spinach, banana, and almond milk.",
+      "ingredients": [
+        "1 banana",
+        "1 cup spinach",
+        "1/2 cup frozen mango",
+        "1 cup almond milk"
+      ],
+      "steps": [
+        "Blend all ingredients until smooth."
+      ],
+      "keywords": ["green smoothie", "healthy", "vegan"]
+    },
+    {
+      "note": "Recipe 115 — Teriyaki Chicken Stir Fry",
+      "title": "Teriyaki Chicken Stir Fry",
+      "category": "main dishes",
+      "prep_time": "medium",
+      "difficulty": "easy",
+      "dietary": [],
+      "summary": "Stir-fried chicken and vegetables with teriyaki sauce.",
+      "ingredients": [
+        "1 lb chicken breast, sliced",
+        "2 cups mixed vegetables",
+        "1/4 cup teriyaki sauce",
+        "1 tbsp sesame oil",
+        "1 clove garlic, minced"
+      ],
+      "steps": [
+        "Heat sesame oil in a skillet.",
+        "Cook chicken until browned.",
+        "Add vegetables and garlic.",
+        "Stir in teriyaki sauce and cook until vegetables are tender."
+      ],
+      "keywords": ["teriyaki", "stir fry", "chicken"]
+    },
+    {
+      "note": "Recipe 116 — Peach Yogurt Parfait",
+      "title": "Peach Yogurt Parfait",
+      "category": "breakfast",
+      "prep_time": "short",
+      "difficulty": "easy",
+      "dietary": ["vegetarian"],
+      "summary": "Layers of Greek yogurt, peaches, and granola.",
+      "ingredients": [
+        "1 cup Greek yogurt",
+        "1 peach, sliced",
+        "1/4 cup granola",
+        "1 tbsp honey"
+      ],
+      "steps": [
+        "Layer yogurt, peaches, and granola in a glass.",
+        "Drizzle with honey."
+      ],
+      "keywords": ["parfait", "peach", "breakfast"]
+    },
+    {
+      "note": "Recipe 117 — Garlic Lemon Roasted Broccoli",
+      "title": "Garlic Lemon Roasted Broccoli",
+      "category": "side dishes",
+      "prep_time": "medium",
+      "difficulty": "easy",
+      "dietary": ["vegan", "gluten-free"],
+      "summary": "Roasted broccoli with garlic and lemon zest.",
+      "ingredients": [
+        "4 cups broccoli florets",
+        "2 tbsp olive oil",
+        "2 cloves garlic, minced",
+        "Zest of 1 lemon",
+        "Salt and pepper"
+      ],
+      "steps": [
+        "Preheat oven to 425°F (220°C).",
+        "Toss broccoli with olive oil, garlic, salt, and pepper.",
+        "Roast for 20 minutes.",
+        "Sprinkle with lemon zest before serving."
+      ],
+      "keywords": ["broccoli", "roasted", "lemon"]
+    },
+    {
+      "note": "Recipe 118 — Turkey Wrap",
+      "title": "Turkey Wrap",
+      "category": "main dishes",
+      "prep_time": "short",
+      "difficulty": "easy",
+      "dietary": [],
+      "summary": "Simple turkey wrap with lettuce and tomato.",
+      "ingredients": [
+        "1 large tortilla",
+        "4 oz sliced turkey",
+        "Lettuce leaves",
+        "Tomato slices",
+        "1 tbsp mayonnaise or mustard"
+      ],
+      "steps": [
+        "Spread mayonnaise or mustard on the tortilla.",
+        "Layer turkey, lettuce, and tomato.",
+        "Roll up and slice."
+      ],
+      "keywords": ["wrap", "turkey", "lunch"]
+    },
+    {
+      "note": "Recipe 119 — Lemon Garlic Shrimp",
+      "title": "Lemon Garlic Shrimp",
+      "category": "main dishes",
+      "prep_time": "short",
+      "difficulty": "easy",
+      "dietary": ["gluten-free"],
+      "summary": "Quick sautéed shrimp with lemon and garlic.",
+      "ingredients": [
+        "1 lb shrimp, peeled and deveined",
+        "2 tbsp butter",
+        "2 cloves garlic, minced",
+        "Juice of 1 lemon",
+        "Salt and pepper"
+      ],
+      "steps": [
+        "Melt butter in a skillet.",
+        "Add garlic and cook briefly.",
+        "Add shrimp and cook until pink.",
+        "Drizzle with lemon juice and season."
+      ],
+      "keywords": ["shrimp", "lemon", "garlic"]
+    },
+    {
+      "note": "Recipe 120 — Avocado Tomato Salad",
+      "title": "Avocado Tomato Salad",
+      "category": "soups & salads",
+      "prep_time": "short",
+      "difficulty": "easy",
+      "dietary": ["vegan", "gluten-free"],
+      "summary": "Fresh salad with avocado, tomato, and a lime vinaigrette.",
+      "ingredients": [
+        "2 avocados, diced",
+        "2 tomatoes, diced",
+        "2 tbsp olive oil",
+        "Juice of 1 lime",
+        "Salt and pepper"
+      ],
+      "steps": [
+        "Combine avocado and tomato in a bowl.",
+        "Drizzle with olive oil and lime juice.",
+        "Season with salt and pepper."
+      ],
+      "keywords": ["avocado salad", "tomato", "fresh"]
+    }    ,
+    {
+      "note": "Recipe 121 — Chicken Salad Sandwich",
+      "title": "Chicken Salad Sandwich",
+      "category": "main dishes",
+      "prep_time": "short",
+      "difficulty": "easy",
+      "dietary": [],
+      "summary": "Classic chicken salad served on whole grain bread.",
+      "ingredients": [
+        "2 cups cooked chicken, chopped",
+        "1/4 cup mayonnaise",
+        "2 tbsp chopped celery",
+        "Salt and pepper",
+        "4 slices whole grain bread",
+        "Lettuce leaves"
+      ],
+      "steps": [
+        "Mix chicken, mayonnaise, celery, salt, and pepper.",
+        "Spread on bread slices with lettuce."
+      ],
+      "keywords": ["chicken salad", "sandwich", "lunch"]
+    },
+    {
+      "note": "Recipe 122 — Veggie and Hummus Wrap",
+      "title": "Veggie and Hummus Wrap",
+      "category": "main dishes",
+      "prep_time": "short",
+      "difficulty": "easy",
+      "dietary": ["vegan"],
+      "summary": "Whole wheat wrap filled with hummus and fresh veggies.",
+      "ingredients": [
+        "1 large whole wheat tortilla",
+        "1/4 cup hummus",
+        "1/2 cup mixed sliced veggies (bell peppers, cucumber, spinach)",
+        "Salt and pepper"
+      ],
+      "steps": [
+        "Spread hummus on tortilla.",
+        "Add veggies, season, and roll up."
+      ],
+      "keywords": ["wrap", "hummus", "vegetarian"]
+    },
+    {
+      "note": "Recipe 123 — Egg and Cheese Breakfast Sandwich",
+      "title": "Egg and Cheese Breakfast Sandwich",
+      "category": "breakfast",
+      "prep_time": "short",
+      "difficulty": "easy",
+      "dietary": ["vegetarian"],
+      "summary": "Scrambled egg and cheese on an English muffin.",
+      "ingredients": [
+        "1 English muffin, split and toasted",
+        "1 egg",
+        "1 slice cheddar cheese",
+        "1 tsp butter",
+        "Salt and pepper"
+      ],
+      "steps": [
+        "Scramble egg with salt and pepper.",
+        "Place egg and cheese between muffin halves."
+      ],
+      "keywords": ["breakfast sandwich", "egg", "cheese"]
+    },
+    {
+      "note": "Recipe 124 — Simple Fruit Salad",
+      "title": "Simple Fruit Salad",
+      "category": "side dishes",
+      "prep_time": "short",
+      "difficulty": "easy",
+      "dietary": ["vegan", "gluten-free"],
+      "summary": "A refreshing mix of seasonal fruits.",
+      "ingredients": [
+        "1 cup grapes",
+        "1 cup pineapple chunks",
+        "1 cup strawberries, sliced",
+        "Juice of 1 orange"
+      ],
+      "steps": [
+        "Combine all fruits in a bowl.",
+        "Drizzle with orange juice."
+      ],
+      "keywords": ["fruit salad", "fresh", "easy"]
+    },
+    {
+      "note": "Recipe 125 — Grilled Chicken Salad",
+      "title": "Grilled Chicken Salad",
+      "category": "soups & salads",
+      "prep_time": "medium",
+      "difficulty": "easy",
+      "dietary": ["gluten-free"],
+      "summary": "Grilled chicken breast over mixed greens with vinaigrette.",
+      "ingredients": [
+        "2 grilled chicken breasts, sliced",
+        "4 cups mixed greens",
+        "1/2 cup cherry tomatoes, halved",
+        "1/4 cup sliced cucumbers",
+        "2 tbsp vinaigrette dressing"
+      ],
+      "steps": [
+        "Arrange greens, tomatoes, and cucumbers on a plate.",
+        "Top with sliced chicken.",
+        "Drizzle with vinaigrette."
+      ],
+      "keywords": ["chicken salad", "grilled", "gluten-free"]
+    },
+    {
+      "note": "Recipe 126 — Black Bean Burrito Bowl",
+      "title": "Black Bean Burrito Bowl",
+      "category": "main dishes",
+      "prep_time": "medium",
+      "difficulty": "easy",
+      "dietary": ["vegan", "gluten-free"],
+      "summary": "Rice bowl with black beans, veggies, and avocado.",
+      "ingredients": [
+        "1 cup cooked rice",
+        "1 can black beans, drained",
+        "1/2 cup corn",
+        "1/2 cup diced tomatoes",
+        "1 avocado, sliced",
+        "Fresh cilantro"
+      ],
+      "steps": [
+        "Layer rice, beans, corn, and tomatoes in a bowl.",
+        "Top with avocado and cilantro."
+      ],
+      "keywords": ["burrito bowl", "black beans", "vegan"]
+    },
+    {
+      "note": "Recipe 127 — Sweet Potato Hash",
+      "title": "Sweet Potato Hash",
+      "category": "breakfast",
+      "prep_time": "medium",
+      "difficulty": "easy",
+      "dietary": ["vegetarian", "gluten-free"],
+      "summary": "Diced sweet potatoes sautéed with onions and bell peppers.",
+      "ingredients": [
+        "2 sweet potatoes, diced",
+        "1/2 onion, chopped",
+        "1 bell pepper, chopped",
+        "2 tbsp olive oil",
+        "Salt and pepper"
+      ],
+      "steps": [
+        "Heat oil in a skillet.",
+        "Cook sweet potatoes until tender.",
+        "Add onion and bell pepper, cook until softened.",
+        "Season with salt and pepper."
+      ],
+      "keywords": ["sweet potato", "hash", "breakfast"]
+    },
+    {
+      "note": "Recipe 128 — Simple Caprese Skewers",
+      "title": "Simple Caprese Skewers",
+      "category": "appetizers/snacks",
+      "prep_time": "short",
+      "difficulty": "easy",
+      "dietary": ["vegetarian", "gluten-free"],
+      "summary": "Mini skewers with mozzarella, tomatoes, and basil.",
+      "ingredients": [
+        "12 cherry tomatoes",
+        "12 small mozzarella balls",
+        "12 basil leaves",
+        "2 tbsp balsamic glaze"
+      ],
+      "steps": [
+        "Thread tomato, mozzarella, and basil on skewers.",
+        "Drizzle with balsamic glaze."
+      ],
+      "keywords": ["caprese", "skewers", "appetizer"]
+    },
+    {
+      "note": "Recipe 129 — Spinach and Strawberry Wrap",
+      "title": "Spinach and Strawberry Wrap",
+      "category": "main dishes",
+      "prep_time": "short",
+      "difficulty": "easy",
+      "dietary": ["vegetarian"],
+      "summary": "Whole wheat wrap filled with spinach, strawberries, and goat cheese.",
+      "ingredients": [
+        "1 large whole wheat tortilla",
+        "1 cup spinach",
+        "1/2 cup sliced strawberries",
+        "2 tbsp crumbled goat cheese",
+        "1 tbsp balsamic glaze"
+      ],
+      "steps": [
+        "Layer spinach, strawberries, and goat cheese on the tortilla.",
+        "Drizzle with balsamic glaze and roll up."
+      ],
+      "keywords": ["wrap", "spinach", "strawberry"]
+    },
+    {
+      "note": "Recipe 130 — Baked Potato Wedges",
+      "title": "Baked Potato Wedges",
+      "category": "side dishes",
+      "prep_time": "medium",
+      "difficulty": "easy",
+      "dietary": ["vegetarian", "gluten-free"],
+      "summary": "Crispy baked potato wedges seasoned with paprika.",
+      "ingredients": [
+        "3 russet potatoes, cut into wedges",
+        "2 tbsp olive oil",
+        "1 tsp paprika",
+        "Salt and pepper"
+      ],
+      "steps": [
+        "Preheat oven to 425°F (220°C).",
+        "Toss potato wedges with oil, paprika, salt, and pepper.",
+        "Bake for 30-35 minutes until crispy."
+      ],
+      "keywords": ["potato wedges", "baked", "side dish"]
+    }    ,
+    {
+      "note": "Recipe 131 — Avocado Tuna Salad",
+      "title": "Avocado Tuna Salad",
+      "category": "soups & salads",
+      "prep_time": "short",
+      "difficulty": "easy",
+      "dietary": ["gluten-free"],
+      "summary": "Tuna salad mixed with avocado for a creamy, healthy twist.",
+      "ingredients": [
+        "1 can tuna, drained",
+        "1 ripe avocado, mashed",
+        "1 tbsp lemon juice",
+        "Salt and pepper"
+      ],
+      "steps": [
+        "Mix all ingredients together.",
+        "Serve as a salad or on whole grain bread."
+      ],
+      "keywords": ["tuna salad", "avocado", "gluten-free"]
+    },
+    {
+      "note": "Recipe 132 — Roasted Garlic Green Beans",
+      "title": "Roasted Garlic Green Beans",
+      "category": "side dishes",
+      "prep_time": "medium",
+      "difficulty": "easy",
+      "dietary": ["vegan", "gluten-free"],
+      "summary": "Fresh green beans roasted with garlic and olive oil.",
+      "ingredients": [
+        "1 lb green beans, trimmed",
+        "2 tbsp olive oil",
+        "2 cloves garlic, minced",
+        "Salt and pepper"
+      ],
+      "steps": [
+        "Preheat oven to 425°F (220°C).",
+        "Toss green beans with olive oil, garlic, salt, and pepper.",
+        "Roast for 15-20 minutes."
+      ],
+      "keywords": ["green beans", "roasted", "side dish"]
+    },
+    {
+      "note": "Recipe 133 — Peach Smoothie",
+      "title": "Peach Smoothie",
+      "category": "drinks",
+      "prep_time": "short",
+      "difficulty": "easy",
+      "dietary": ["vegetarian", "gluten-free"],
+      "summary": "A refreshing smoothie with peaches and yogurt.",
+      "ingredients": [
+        "1 cup frozen peaches",
+        "1/2 cup Greek yogurt",
+        "1/2 cup orange juice",
+        "1 tbsp honey"
+      ],
+      "steps": [
+        "Blend all ingredients until smooth."
+      ],
+      "keywords": ["smoothie", "peach", "drink"]
+    },
+    {
+      "note": "Recipe 134 — Turkey Spinach Wrap",
+      "title": "Turkey Spinach Wrap",
+      "category": "main dishes",
+      "prep_time": "short",
+      "difficulty": "easy",
+      "dietary": [],
+      "summary": "Whole wheat wrap with turkey, spinach, and mustard.",
+      "ingredients": [
+        "1 large whole wheat tortilla",
+        "4 oz sliced turkey",
+        "1 cup spinach",
+        "1 tbsp Dijon mustard"
+      ],
+      "steps": [
+        "Spread mustard on the tortilla.",
+        "Add turkey and spinach.",
+        "Roll up and slice."
+      ],
+      "keywords": ["wrap", "turkey", "spinach"]
+    },
+    {
+      "note": "Recipe 135 — Mixed Berry Fruit Salad",
+      "title": "Mixed Berry Fruit Salad",
+      "category": "side dishes",
+      "prep_time": "short",
+      "difficulty": "easy",
+      "dietary": ["vegan", "gluten-free"],
+      "summary": "A mix of fresh strawberries, blueberries, and raspberries.",
+      "ingredients": [
+        "1 cup strawberries, sliced",
+        "1 cup blueberries",
+        "1 cup raspberries",
+        "1 tbsp honey (optional)",
+        "Juice of 1 lemon"
+      ],
+      "steps": [
+        "Combine berries in a bowl.",
+        "Drizzle with lemon juice and honey if desired."
+      ],
+      "keywords": ["fruit salad", "berries", "fresh"]
+    }
   ]
 }
-
-
-
